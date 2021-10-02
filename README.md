@@ -45,5 +45,5 @@ This workspace is an example of how to segment and align MAS-ISO-seq data.
 The data in this workspace are the same Spike-in RNA Variant Control Mix ([SIRVs set 4](https://www.lexogen.com/sirvs/sirv-sets/), [Lexogen](https://www.lexogen.com/)) samples that we used as controls in the paper.
 
 ## Pre-print of the Paper
-A preprint of the paper can be found on bioRxiv here: _LINK TO BE ADDED_
+A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isoform sequencing using programmable cDNA concatenation](https://www.biorxiv.org/content/10.1101/2021.10.01.462818v1)
 
