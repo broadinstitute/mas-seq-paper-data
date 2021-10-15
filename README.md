@@ -47,3 +47,6 @@ The data in this workspace are the same Spike-in RNA Variant Control Mix ([SIRVs
 ## Pre-print of the Paper
 A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isoform sequencing using programmable cDNA concatenation](https://www.biorxiv.org/content/10.1101/2021.10.01.462818v1)
 
+## Additional Analysis Scripts
+Addition scripts and Jupyter notebooks used to perform analysis and figure creation for the paper are located in the scripts directory.
+
