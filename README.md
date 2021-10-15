@@ -31,7 +31,7 @@ There were two datasets from this study:
 | Dataset | Number of Samples | Location |
 |---|---|---|
 | Human tumor-infiltrating CD8+ T cells | 2 | _Release in progress..._ |
-| Spike-in RNA Variant Control Mix data ([SIRVs set 4](https://www.lexogen.com/sirvs/sirv-sets/), [Lexogen](https://www.lexogen.com/)) | 2 | [Terra](https://app.terra.bio/#workspaces/broad-firecloud-dsde-methods/MAS-seq%20-%20Data%20Segmentation%20and%20Alignment/data)* |
+| Spike-in RNA Variant Control Mix data ([SIRVs set 4](https://www.lexogen.com/sirvs/sirv-sets/), [Lexogen](https://www.lexogen.com/)) | 2 | [Terra](https://app.terra.bio/#workspaces/broad-firecloud-dsde-methods/MAS-seq%20-%20Data%20Segmentation%20and%20Alignment/data)*,<BR />FTP: ftp://gsapubftp-anonymous@ftp.broadinstitute.org/MasSeqNatBiotech2021 |
 
 \* - The SIRV samples were prepared with two library preparation techniques: a length 10 MAS-ISO-seq array and a length 15 MAS-ISO-seq array.  They were multiplexed into a single pooled sample and sequenced in a single run on a PacBio Sequel IIe.  Our software package, [Longbow](https://github.com/broadinstitute/longbow/releases/tag/v0.2.2), was then used to demultiplex the single SIRV multiplexed sample into two outputs - one for the length 15 array and one for the length 10 array.  These demultiplexed files are what is currently available in the Terra workspace.
 
