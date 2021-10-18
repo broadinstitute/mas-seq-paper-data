@@ -1,0 +1,647 @@
+,gene_names,total_expression,go_terms,pseudotime_spearman_corr,pseudotime_spearman_pval,pseudotime_spearman_pval_adj
+396,SRRT,912.8970947265625,mRNA processing,0.42563326901165016,9.23658264356001e-198,1.9889441292465888e-195
+155,HNRNPLL,589.6509399414062,"mRNA processing, positive regulation of RNA splicing, regulation of RNA splicing",0.3878553863330923,1.097382759167735e-161,1.772273156055892e-159
+538,CD2BP2,542.6026000976562,"RNA splicing, mRNA processing, spliceosomal tri-snRNP complex assembly",0.35285136767529535,3.041824765101684e-132,3.2750313304261463e-130
+616,UBL5,2888.1708984375,"mRNA splicing, via spliceosome",0.3319356133883261,2.4009515896579302e-116,2.2157353241700327e-114
+316,RPS26,4065.3740234375,negative regulation of RNA splicing,0.27355911595709514,3.6554578740395235e-78,2.6238064295883692e-76
+68,AHNAK,859.080322265625,regulation of RNA splicing,0.2557858384224213,3.072566174890901e-68,1.984877748979522e-66
+270,HNRNPA3,1464.835205078125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.24767447493381492,5.8308714486761855e-64,3.4243117780407417e-62
+638,TMBIM6,2187.671875,negative regulation of RNA splicing,0.24161883813808177,7.224599741295436e-61,3.590070332982194e-59
+568,RALY,1505.9349365234375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.23730047118161496,1.0288496820708184e-58,4.747406390126776e-57
+596,SNRPB,1405.220703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.22689261766528304,1.061626448462896e-53,4.5720712380468725e-52
+146,ZFP36,5008.8212890625,"3'-UTR-mediated mRNA destabilization, 3'-UTR-mediated mRNA stabilization, mRNA catabolic process, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, nuclear-transcribed mRNA catabolic process, deadenylation-independent decay, nuclear-transcribed mRNA poly(A) tail shortening, positive regulation of deadenylation-independent decapping of nuclear-transcribed mRNA, positive regulation of mRNA catabolic process, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening, regulation of mRNA stability",0.22149846351797223,3.365892983672296e-51,1.3589792921576892e-49
+40,TENT5C,783.2913208007812,mRNA stabilization,0.20785772140191963,3.6271830718792683e-45,1.3783295673141221e-43
+271,HNRNPK,1855.09912109375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome",0.20746799209341063,5.318871863320644e-45,1.90888401316952e-43
+95,CARHSP1,356.1039733886719,regulation of mRNA stability,0.20501198514691743,5.831150633933489e-44,1.9825912155373866e-42
+466,USB1,330.0083923339844,RNA splicing,0.20484985655934942,6.822347329301843e-44,2.2036181873644954e-42
+459,LSM2,1285.237548828125,"RNA splicing, mRNA catabolic process, mRNA processing, mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",0.20475610507410158,7.4702030816893e-44,2.2979767575101372e-42
+379,LGALS3,546.9033203125,"RNA splicing, mRNA processing",0.19821120823559737,3.7662275841521474e-41,1.1059013724374034e-39
+407,FLNA,864.2252197265625,mRNA transcription by RNA polymerase II,0.19737790290299648,8.189314474009267e-41,2.3001291957434723e-39
+515,TRAF5,378.6697998046875,mRNA stabilization,0.19165180391137174,1.5497662228292334e-38,4.1714540831153535e-37
+471,NUDT21,673.9673461914062,"mRNA alternative polyadenylation, mRNA polyadenylation, mRNA processing, positive regulation of mRNA cleavage, positive regulation of mRNA polyadenylation, pre-mRNA cleavage required for polyadenylation",0.19154294666869626,1.7094715697592908e-38,4.4172745362580075e-37
+556,SLBP,469.02764892578125,"mRNA 3'-end processing by stem-loop binding and cleavage, mRNA processing",0.18834618057664712,2.9667495641811948e-37,7.371231609465584e-36
+109,BUD31,653.682373046875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.18268624807380612,4.097080706524952e-35,9.802644949685627e-34
+445,ZCRB1,495.2309265136719,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.18203807581668097,7.131198121303595e-35,1.645269280843615e-33
+357,SRSF4,645.5220336914062,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome",0.17628492835141324,8.9125479149064e-33,1.9191686510098446e-31
+206,ERN1,419.50439453125,"mRNA catabolic process, mRNA cleavage, mRNA cleavage involved in mRNA processing, mRNA processing, mRNA splicing, via endonucleolytic cleavage and ligation, positive regulation of RNA splicing",0.17605362764115,1.0785069093760208e-32,2.2474692369577725e-31
+287,SUPT4H1,543.2665405273438,mRNA processing,0.17573112636040672,1.406401340159459e-32,2.8391727054469077e-31
+400,METTL8,136.06582641601562,"mRNA methylation, mRNA methyltransferase activity",0.17343810607015556,9.149871224441229e-32,1.7911566093906164e-30
+366,DCPS,306.6038818359375,"RNA splicing, deadenylation-dependent decapping of nuclear-transcribed mRNA, exonucleolytic catabolism of deadenylated mRNA, mRNA cis splicing, via spliceosome, mRNA processing, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.17333086706401868,9.981072745021426e-32,1.8964038215540712e-30
+130,MYD88,321.8409118652344,3'-UTR-mediated mRNA stabilization,0.1721885863341397,2.5112645035960136e-31,4.635076769494357e-30
+422,SNRPB2,726.0533447265625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.17001127389070297,1.4322642749706294e-30,2.5701186711972964e-29
+41,SNRPG,1198.96826171875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal snRNP assembly",0.16874317401616196,3.906364216703418e-30,6.820300767541643e-29
+180,HNRNPF,1705.3079833984375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of RNA splicing",0.16850129301097105,4.7260916337765196e-30,8.034355777420084e-29
+432,SF3B6,1002.7481689453125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.1677147134360165,8.763475392191868e-30,1.4515910521425503e-28
+273,ROCK1,670.3604736328125,mRNA destabilization,0.16436192286271786,1.1779007466280625e-28,1.902309705804321e-27
+579,HNRNPA2B1,3336.23681640625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome",0.16387572560753494,1.7091399159578625e-28,2.692937526118974e-27
+590,PAPOLA,912.99755859375,"mRNA 3'-end processing, mRNA polyadenylation, mRNA processing, regulation of mRNA 3'-end processing",0.16203092516470383,6.94513039081635e-28,1.0682271982065147e-26
+230,POLR2G,857.970703125,"nuclear-transcribed mRNA catabolic process, exonucleolytic, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.16195257002587915,7.36858693065768e-28,1.1070016644662467e-26
+79,LSM10,629.4669799804688,"RNA splicing, mRNA 3'-end processing by stem-loop binding and cleavage, mRNA processing",0.1596946469966249,4.00443260658312e-27,5.879235145119764e-26
+144,PRR5L,89.14485931396484,positive regulation of mRNA catabolic process,0.15935016925899134,5.1731997332099595e-27,7.426415617008075e-26
+384,SF3B2,882.7484130859375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.15394783787160232,2.663731991328051e-25,3.740806231299828e-24
+346,RBM8A,1618.5203857421875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, regulation of alternative mRNA splicing, via spliceosome",0.15270828979526896,6.45138528459742e-25,8.867223178404114e-24
+340,SNRPC,850.065673828125,"mRNA 5'-splice site recognition, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.15209202205932826,9.987514071388663e-25,1.3441529354410577e-23
+449,ZMAT2,515.558349609375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.15198564995751881,1.076809884156866e-24,1.4196309901333377e-23
+633,PYM1,401.579833984375,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.15013315160789464,3.958475897814431e-24,5.1143508599762445e-23
+601,RBM42,418.7522277832031,"negative regulation of mRNA splicing, via spliceosome",0.14966824677435758,5.473941427595848e-24,6.933659141621408e-23
+278,AURKAIP1,1052.072021484375,mRNA processing,0.14924536983257092,7.34441093409897e-24,9.124018198899873e-23
+186,PRDX6,1400.5380859375,"positive regulation of mRNA splicing, via spliceosome",0.1490601792762783,8.351125103745024e-24,9.990420031517196e-23
+514,MAPKAPK2,170.09063720703125,"3'-UTR-mediated mRNA stabilization, mRNA stabilization, regulation of mRNA stability",0.1466770162233881,4.2985830682854877e-23,4.958722610915045e-22
+98,SNU13,1449.2001953125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.1465654452514744,4.6382151839141063e-23,5.2566438751026535e-22
+547,HELZ2,131.06253051757812,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.14543574553816702,9.983859431258394e-23,1.1119953780332626e-21
+338,PIK3R1,802.447509765625,positive regulation of RNA splicing,0.14462100890966034,1.728953336227285e-22,1.893057381699705e-21
+22,LSM8,1177.303466796875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.14395996310482614,2.693233256648898e-22,2.8997144729919803e-21
+562,TSEN54,573.2147216796875,"mRNA processing, tRNA splicing, via endonucleolytic cleavage and ligation, tRNA-type intron splice site recognition and cleavage",0.14364957606051298,3.31394263093044e-22,3.509519573083712e-21
+475,HSPA1A,396.8936767578125,"mRNA catabolic process, positive regulation of RNA splicing",0.14338632534543927,3.9498615631586554e-22,4.1155009190330505e-21
+183,GEMIN7,161.85720825195312,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.14295802417617495,5.251844092623517e-22,5.3852242600552255e-21
+14,BARD1,75.98991394042969,negative regulation of mRNA 3'-end processing,0.14193618159447954,1.0327164268159133e-21,1.0423981433173125e-20
+7,NELFE,466.5348815917969,negative regulation of mRNA polyadenylation,0.1408764489523371,2.071427102769157e-21,2.0586798590598085e-20
+545,PPP2R1A,1192.089599609375,RNA splicing,0.13930058466381992,5.774519998498376e-21,5.65203018034841e-20
+168,THOC7,753.9324340820312,"RNA splicing, mRNA processing",0.1377270150038243,1.5886464028431196e-20,1.5317396660248585e-19
+518,RNPS1,1301.990234375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, regulation of alternative mRNA splicing, via spliceosome",0.1370220942248413,2.4904118235005162e-20,2.3658912323254907e-19
+315,TRAF2,149.63864135742188,mRNA stabilization,0.13687584162189523,2.733075728094523e-20,2.558792638187046e-19
+526,PPP2CA,752.9334716796875,RNA splicing,0.13564894668462274,5.938465346391114e-20,5.480355162526657e-19
+140,SRSF9,308.7294921875,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome",0.13547326826323014,6.632545281587753e-20,6.034682044937588e-19
+339,HNRNPC,1779.974853515625,"3'-UTR-mediated mRNA stabilization, RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.13439348885144853,1.3042345226769167e-19,1.1701881967351226e-18
+262,PUF60,744.50048828125,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splice site selection, regulation of alternative mRNA splicing, via spliceosome",0.13227558024075434,4.835744937597522e-19,4.279303054367122e-18
+434,SF3B5,1664.70556640625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, splicing factor binding",0.13122051487398945,9.216342050927294e-19,8.045617520133827e-18
+43,EXOSC9,216.72274780273438,"exonucleolytic catabolism of deadenylated mRNA, nuclear mRNA surveillance, nuclear polyadenylation-dependent mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.13103495153033926,1.031779321264849e-18,8.887059220494567e-18
+318,SAP18,1658.251708984375,"RNA splicing, mRNA processing, negative regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.12970805181809542,2.3021221431261563e-18,1.9568038216572328e-17
+551,ZNRD1,850.4892578125,mRNA cleavage,0.1284510535402952,4.886590564705857e-18,4.099659097142836e-17
+501,JMJD6,342.191162109375,"RNA splicing, mRNA processing, regulation of mRNA splicing, via spliceosome",0.12659651379496223,1.463566701245095e-17,1.2121334474414506e-16
+336,RPUSD3,325.7829284667969,mRNA processing,0.12526910250759288,3.1777814428268203e-17,2.598540268438134e-16
+443,SF3B4,267.2611999511719,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome, splicing factor binding",0.12404432924195187,6.451121907018957e-17,5.209280939917808e-16
+540,ERI1,91.56552124023438,histone mRNA catabolic process,0.12286251101164278,1.269068421453408e-16,9.997782929986606e-16
+328,IK,582.5925903320312,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.12122227904309645,3.211000617535477e-16,2.4991643360577325e-15
+245,NUDT16,142.00582885742188,mRNA catabolic process,0.12107697411294119,3.484121706836379e-16,2.6794555031146437e-15
+474,GIGYF2,152.9193115234375,mRNA destabilization,0.11914359140019315,1.0227471655294081e-15,7.682496150372065e-15
+209,SNRNP35,151.2962646484375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.11791310402188125,2.011391939080725e-15,1.4765445370978962e-14
+246,ADAR,522.66552734375,mRNA processing,0.11781755834303513,2.1192240839584364e-15,1.5382233238619662e-14
+148,MAGOH,731.5223388671875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, regulation of alternative mRNA splicing, via spliceosome",0.11767256745387386,2.2938185470691255e-15,1.6464519793407278e-14
+298,TUT7,179.11874389648438,"histone mRNA catabolic process, nuclear-transcribed mRNA poly(A) tail shortening, polyuridylation-dependent mRNA catabolic process",0.11756771925644663,2.4288222544851344e-15,1.7241968971399968e-14
+491,SMG1,654.4317626953125,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.11721996990706197,2.9350342838914476e-15,2.0609045080368207e-14
+293,SETX,325.26953125,"mRNA splice site selection, positive regulation of RNA splicing",0.11719850849460367,2.9694723090382015e-15,2.062665711439439e-14
+502,TXNL4A,281.6620788574219,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.11690110026899946,3.4897078916627567e-15,2.3982460617171714e-14
+508,POLR2A,608.4142456054688,positive regulation of RNA splicing,0.11607742938407306,5.4454081233640025e-15,3.702877523887522e-14
+167,EXOSC4,163.6500701904297,"histone mRNA catabolic process, nuclear mRNA surveillance, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.11455766697773435,1.2274609799988949e-14,8.259789511242564e-14
+592,RTRAF,1543.80810546875,"tRNA splicing, via endonucleolytic cleavage and ligation",0.11429283057583159,1.4126813278558372e-14,9.408166369019286e-14
+584,LSM1,479.6439208984375,"RNA splicing, RNA splicing, via transesterification reactions, deadenylation-dependent decapping of nuclear-transcribed mRNA, histone mRNA catabolic process, mRNA processing, nuclear-transcribed mRNA catabolic process",0.11275598746868001,3.1729625395622566e-14,2.0915651026094057e-13
+539,ZMAT5,289.3809509277344,"RNA splicing, mRNA processing",0.11076351335575885,8.913260779620447e-14,5.816127741045262e-13
+512,SRPK1,294.94244384765625,"RNA splicing, mRNA processing, regulation of mRNA processing, regulation of mRNA splicing, via spliceosome, spliceosomal complex assembly",0.11059693789636924,9.709097059284814e-14,6.272076700297989e-13
+437,SNRPD1,827.9557495117188,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal snRNP assembly",0.11015006908854662,1.220522732289058e-13,7.806511733254767e-13
+375,THRAP3,817.618408203125,"RNA splicing, mRNA processing, mRNA stabilization, nuclear-transcribed mRNA catabolic process, positive regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.1088481935312714,2.364627656364814e-13,1.4975975156977154e-12
+456,ZC3H12A,242.36419677734375,"3'-UTR-mediated mRNA destabilization, nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay, positive regulation of mRNA catabolic process",0.10877125277815249,2.4582806225653967e-13,1.5417954195895594e-12
+36,IVNS1ABP,403.3385009765625,RNA splicing,0.10811343515650262,3.4227200675474785e-13,2.1260357342650683e-12
+335,GSPT1,291.9051513671875,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.10769103736107875,4.2287794822366254e-13,2.6017062338332e-12
+442,ZBTB8OS,436.4124450683594,"tRNA splicing, via endonucleolytic cleavage and ligation",0.10761609749945572,4.3900795989045933e-13,2.675463604615441e-12
+194,SCNM1,334.98980712890625,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing",0.10697562972902842,6.038908527017719e-13,3.6459204751901366e-12
+237,WDR83,126.1807861328125,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.10681428262665288,6.542100178635212e-13,3.913145106850322e-12
+253,LSM6,859.4520263671875,"RNA splicing, mRNA catabolic process, mRNA processing, mRNA splicing, via spliceosome",0.10647793474799745,7.726974811314287e-13,4.579473145054155e-12
+341,CNOT6L,844.293212890625,"mRNA destabilization, mRNA processing, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, nuclear-transcribed mRNA poly(A) tail shortening",0.10602172158336996,9.676207407859367e-13,5.6825727140701375e-12
+571,FAM50A,182.34912109375,"RNA splicing, mRNA processing, regulation of RNA splicing",0.10567567218821576,1.1469217662263953e-12,6.674878026867129e-12
+447,PRPF40A,727.5850219726562,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.10355514588771526,3.2117806679236495e-12,1.8525092066773906e-11
+112,HNRNPD,474.60821533203125,"3'-UTR-mediated mRNA destabilization, mRNA stabilization, mRNA transcription by RNA polymerase II, regulation of mRNA stability",0.10322877487560307,3.75650373575458e-12,2.147523374599521e-11
+191,PCBP4,71.35929870605469,"negative regulation of mRNA splicing, via spliceosome, regulation of mRNA stability",0.10276767925713502,4.683251677253876e-12,2.6538426171105294e-11
+507,SLTM,682.2491455078125,regulation of mRNA processing,0.1020847479972862,6.48051042874309e-12,3.640356293015683e-11
+31,PRPF31,398.1874084472656,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",0.10081256891228536,1.1800995676033411e-11,6.571933798894469e-11
+58,HNRNPR,767.116455078125,"RNA splicing, mRNA destabilization, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA catabolic process",0.10019618686423458,1.5735803634807097e-11,8.688315511184089e-11
+28,SNRNP27,237.1909637451172,"RNA splicing, mRNA processing",0.09960615608525589,2.069248662848283e-11,1.1328259628813482e-10
+297,CTNNBL1,223.32920837402344,"RNA splicing, mRNA processing",0.09953822774655098,2.13530450170436e-11,1.1591653009252241e-10
+261,PPP4R2,422.17529296875,"RNA splicing, mRNA processing",0.09917047696521471,2.5303722664692835e-11,1.3621837367826309e-10
+225,PLEKHN1,19.925445556640625,3'-UTR-mediated mRNA destabilization,0.09811785263332794,4.099510698044558e-11,2.170724517161299e-10
+263,STAT3,1860.185791015625,mRNA transcription by RNA polymerase II,0.0980917837656829,4.148526191939066e-11,2.178819447148485e-10
+196,TSEN15,367.8560791015625,"mRNA processing, tRNA splicing, via endonucleolytic cleavage and ligation",0.09801751039359828,4.291341857319858e-11,2.2356506772811517e-10
+342,SNRNP40,425.8188781738281,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.09594102627394244,1.0943130218040068e-10,5.610525492741177e-10
+587,NUDT16L1,527.5770263671875,mRNA catabolic process,0.09419133707903936,2.372000435418567e-10,1.197118969750308e-09
+639,SNRPA,936.593017578125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.09412935750555419,2.437280780057929e-10,1.2205297549747457e-09
+429,PTBP3,424.2679748535156,"RNA splicing, mRNA processing, negative regulation of RNA splicing, regulation of RNA splicing",0.09343557192237495,3.298935661917023e-10,1.6393172596910746e-09
+175,SUGP1,92.91650390625,"RNA splicing, mRNA processing",0.09299761789335356,3.989115710925799e-10,1.9671517169908902e-09
+33,SLU7,257.802734375,"RNA splicing, RNA splicing, via transesterification reactions, alternative mRNA splicing, via spliceosome, mRNA 3'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome, second spliceosomal transesterification activity",0.09279359322776762,4.3569507830177955e-10,2.132265307446588e-09
+358,FIP1L1,361.5462646484375,"mRNA polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.09130648976682196,8.239889856191326e-10,4.0022322158643584e-09
+153,SRRM2,678.923828125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0902525989980009,1.2865219246969105e-09,6.202187786225404e-09
+421,PTBP1,466.67156982421875,"RNA splicing, mRNA processing, negative regulation of RNA splicing, negative regulation of mRNA splicing, via spliceosome, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.09014575597878585,1.3455884254136844e-09,6.438889798646223e-09
+256,DDX23,169.15789794921875,"RNA splicing, RNA splicing, via transesterification reactions, cis assembly of pre-catalytic spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.08847365295219066,2.6983654619949984e-09,1.2817235944476243e-08
+472,SON,1764.941162109375,"RNA splicing, mRNA processing, regulation of RNA splicing, regulation of mRNA splicing, via spliceosome",0.0881398466362845,3.095798596602141e-09,1.4597707251131263e-08
+462,TRPT1,416.17303466796875,"tRNA splicing, via endonucleolytic cleavage and ligation",0.08784354481991632,3.4958904868682945e-09,1.6364820684905207e-08
+138,MFAP1,134.781005859375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.08692304174858496,5.086843250721819e-09,2.330567900685316e-08
+426,SRSF2,1364.78662109375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.08662209642377194,5.7457178955550085e-09,2.613897014456715e-08
+274,RNH1,699.5204467773438,mRNA catabolic process,0.08594865963693525,7.534796142687448e-09,3.3801932695667305e-08
+267,DCP2,378.5440368652344,"deadenylation-dependent decapping of nuclear-transcribed mRNA, exonucleolytic catabolism of deadenylated mRNA, histone mRNA catabolic process, mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, regulation of mRNA stability",0.08548490109717627,9.070464698716127e-09,4.041048410600426e-08
+201,SRSF7,3099.601318359375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome",0.08516091879201072,1.0319503214404496e-08,4.5660267647296605e-08
+574,CPSF3,108.44719696044922,"mRNA 3'-end processing by stem-loop binding and cleavage, mRNA cleavage, mRNA polyadenylation, mRNA processing",0.0849879732290992,1.105310125579798e-08,4.8573492593506774e-08
+6,LSM3,760.485595703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.08491073999906018,1.13968439296528e-08,4.974568363888992e-08
+344,PRPF38A,286.5242004394531,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.08471206819712462,1.2329481104812825e-08,5.3455334185967015e-08
+580,PRPF18,224.25328063964844,"RNA splicing, generation of catalytic spliceosome for second transesterification step, mRNA processing, nuclear retention of unspliced pre-mRNA at the site of transcription",0.08462969172906615,1.273756179072096e-08,5.4856432778704934e-08
+503,RAMAC,126.73754119873047,"7-methylguanosine mRNA capping, mRNA processing, recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex",0.0844734456458445,1.3547920910315875e-08,5.795997952360301e-08
+593,RRAGC,55.8272705078125,RNA splicing,0.08411956250987905,1.557275994501109e-08,6.618422976629713e-08
+32,USP39,224.43307495117188,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.08346267719897872,2.0137608750857437e-08,8.502545917028697e-08
+461,SNRNP70,485.0848083496094,"mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome, regulation of RNA splicing",0.08343342626923199,2.036853449708402e-08,8.544203431893686e-08
+299,SNW1,417.87921142578125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome",0.08321316413776096,2.219189992202221e-08,9.249011193307321e-08
+149,NCBP3,197.7870635986328,"7-methylguanosine mRNA capping, mRNA processing",0.08286216816447357,2.5429304804171052e-08,1.0530340322752883e-07
+607,DDX41,182.56634521484375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0826845723112889,2.7237468457021138e-08,1.1207264091232901e-07
+595,AHCYL1,102.66293334960938,"mRNA polyadenylation, regulation of mRNA 3'-end processing",0.08247479592608863,2.9534231962080846e-08,1.2075388511078625e-07
+190,THOC5,124.62665557861328,"RNA splicing, mRNA processing",0.0822801490132728,3.1832623663963525e-08,1.2933254645861909e-07
+231,SNRNP25,148.51821899414062,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.081754652827574,3.893792395972298e-08,1.569905639680339e-07
+455,SUGP2,104.27960205078125,"RNA splicing, mRNA processing",0.08130319302330298,4.625059203763336e-08,1.8443137318710587e-07
+122,PCID2,300.3794860839844,"nuclear retention of pre-mRNA at the site of transcription, regulation of mRNA stability",0.08125743739230967,4.7062024965526884e-08,1.8632623024817436e-07
+608,PCIF1,390.83892822265625,"mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity, mRNA methylation",0.08124401665347734,4.7302634304490086e-08,1.8632623024817436e-07
+57,SUPT5H,298.96197509765625,negative regulation of mRNA polyadenylation,0.08119961518458509,4.810719751166721e-08,1.880967875527653e-07
+388,ETF1,232.5702667236328,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.08118720307947422,4.8334468628109975e-08,1.880967875527653e-07
+552,AKT1,106.20491027832031,regulation of mRNA stability,0.0808725120981307,5.445692016460721e-08,2.1065371512776203e-07
+535,DHX38,134.8491973876953,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.08078233964499627,5.634553243283463e-08,2.1666198780720934e-07
+553,GPKOW,159.827880859375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.08067105734788227,5.876387455175532e-08,2.246240411859996e-07
+583,CASC3,164.34164428710938,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.08057437906826878,6.094621325270108e-08,2.3159561036026412e-07
+223,CPSF6,244.3904266357422,"mRNA alternative polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.0803215687666384,6.703050217589439e-08,2.532263415533788e-07
+386,ZPR1,247.37429809570312,"RNA splicing, mRNA processing, positive regulation of RNA splicing",0.07956024018469374,8.912004253903022e-08,3.3471829930356697e-07
+185,YTHDF2,448.04925537109375,"mRNA catabolic process, mRNA destabilization, regulation of mRNA stability",0.07906142946106955,1.0725437360936181e-07,3.970158190902536e-07
+411,SYNCRIP,386.9896240234375,"CRD-mediated mRNA stabilization, RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.07905418829860032,1.0754226887742959e-07,3.970158190902536e-07
+604,TRA2B,972.6822509765625,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.0790539758935938,1.0755072498574983e-07,3.970158190902536e-07
+612,LUC7L2,608.1280517578125,mRNA splice site selection,0.078973471241353,1.108024732822301e-07,4.0669544170636734e-07
+319,GEMIN8,82.78644561767578,"RNA splicing, mRNA processing, spliceosomal snRNP assembly",0.07853935708908812,1.3004395506183281e-07,4.746237003951638e-07
+311,SREK1IP1,321.3647155761719,"RNA splicing, mRNA processing",0.07825998113565212,1.4409556374837558e-07,5.229535628171383e-07
+613,ATF4,709.3013916015625,mRNA transcription by RNA polymerase II,0.07812127630448651,1.516065468358375e-07,5.471387109271008e-07
+136,NONO,626.4268798828125,"RNA splicing, mRNA processing",0.07714480417787876,2.162809593744151e-07,7.762083319770676e-07
+27,KHDRBS1,552.8745727539062,"mRNA processing, regulation of alternative mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome",0.07704268069554636,2.2441364903605307e-07,8.009459518082336e-07
+359,SF3A2,752.1729736328125,"RNA splicing, U2-type prespliceosome assembly, mRNA 3'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.07686305377248662,2.394404969784797e-07,8.498822035609774e-07
+494,PHF5A,465.5361328125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0765246211489374,2.704346213406646e-07,9.546489911807067e-07
+292,TSEN34,172.66604614257812,"mRNA processing, tRNA splicing, via endonucleolytic cleavage and ligation, tRNA-type intron splice site recognition and cleavage",0.07590636992318837,3.373380255595709e-07,1.184349807127624e-06
+324,XRN2,759.2980346679688,"mRNA processing, nuclear-transcribed mRNA catabolic process",0.07563910022715938,3.709703019994069e-07,1.2953881896844155e-06
+184,UPF3A,487.7908020019531,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.07524082754359881,4.271574849699555e-07,1.483568469304254e-06
+513,SRSF11,1253.79345703125,"RNA splicing, mRNA processing",0.07521331476428057,4.313281693978142e-07,1.4900427670106308e-06
+453,LARP7,287.94110107421875,"RNA splicing, mRNA processing, regulation of mRNA splicing, via spliceosome",0.07492341799313748,4.777298881471548e-07,1.6328757023442435e-06
+282,SYF2,1029.3485107421875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0743944775669158,5.750828940162538e-07,1.9524047726217494e-06
+129,HNRNPL,460.6207275390625,"mRNA processing, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.07438366948078076,5.772589962395575e-07,1.9524047726217494e-06
+162,CNOT11,83.32481384277344,mRNA catabolic process,0.07430335256522555,5.936804509522724e-07,1.997487350599833e-06
+242,MBNL1,1695.78662109375,"RNA splicing, mRNA processing, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.07399187617104164,6.617263027187175e-07,2.21489736557664e-06
+165,XAB2,258.3922424316406,"RNA splicing, generation of catalytic spliceosome for first transesterification step, mRNA processing, mRNA splicing, via spliceosome",0.0737421384935534,7.216528042063769e-07,2.403029440810925e-06
+642,HNRNPM,862.9546508789062,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, regulation of mRNA stability involved in response to oxidative stress",0.07358173546326804,7.628638739049078e-07,2.5272310899618997e-06
+284,CDC73,186.85552978515625,"mRNA polyadenylation, positive regulation of mRNA 3'-end processing, recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex",0.07339803417027019,8.128459144471008e-07,2.679073779249118e-06
+609,XRN1,375.33990478515625,"histone mRNA catabolic process, nuclear mRNA surveillance, nuclear-transcribed mRNA catabolic process",0.07326941673825446,8.497015679633115e-07,2.7863310299710616e-06
+414,DDX39B,787.5061645507812,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.07298277812802091,9.377155361068373e-07,3.059415334974833e-06
+644,USP4,231.1934814453125,spliceosomal tri-snRNP complex assembly,0.07282376774269515,9.902584923239281e-07,3.214607970056571e-06
+373,FRG1,355.8696594238281,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.07279000583949026,1.001773743757301e-06,3.235729192336082e-06
+529,ZBTB1,188.16592407226562,mRNA transcription by RNA polymerase II,0.07221368714326673,1.219388542298554e-06,3.9190298424122684e-06
+174,RBBP6,698.2003173828125,mRNA processing,0.07198861858559343,1.3161618593273516e-06,4.188377148401325e-06
+417,DHX36,352.5982666015625,"3'-UTR-mediated mRNA destabilization, positive regulation of mRNA 3'-end processing, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, regulation of mRNA stability",0.07192990955473424,1.342594800309905e-06,4.251550200981366e-06
+467,AGO4,38.00471496582031,"mRNA catabolic process, mRNA cleavage involved in gene silencing by miRNA, mRNA cleavage involved in gene silencing by siRNA",0.0717951289318074,1.405222717439294e-06,4.4281652461745554e-06
+228,RBM15,55.960540771484375,"regulation of alternative mRNA splicing, via spliceosome",0.0712679505613378,1.6782497091490449e-06,5.262860738399432e-06
+509,HSPA1B,356.25433349609375,mRNA catabolic process,0.07123931967406887,1.6944517945736519e-06,5.287999320263668e-06
+310,PPIE,374.1991271972656,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.07121037781979324,1.7109825423635885e-06,5.313916934456145e-06
+441,CNOT9,149.37985229492188,mRNA catabolic process,0.07090517818679402,1.8950055412230424e-06,5.857289854689403e-06
+504,RBM17,858.868408203125,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, regulation of RNA splicing",0.07088566103580161,1.907398748335424e-06,5.867521863927067e-06
+464,ELAVL1,97.22534942626953,"3'-UTR-mediated mRNA stabilization, mRNA stabilization",0.07057486848052709,2.1155550779013973e-06,6.477007489688638e-06
+415,CNOT8,365.0243225097656,"exonucleolytic catabolism of deadenylated mRNA, positive regulation of mRNA catabolic process",0.07038171061471958,2.2557344657414247e-06,6.87360596636302e-06
+21,REST,318.85797119140625,"regulation of alternative mRNA splicing, via spliceosome",0.07010828462553871,2.469496338152416e-06,7.419975043937026e-06
+303,MYOD1,6.771432876586914,"regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.0699840678614872,2.5729080687401963e-06,7.694900983361883e-06
+528,CNOT1,315.9786071777344,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of mRNA catabolic process, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.0699388018807575,2.6116154745658457e-06,7.774670951933348e-06
+272,SRRM1,1298.760986328125,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.06969843661579145,2.8266960357021747e-06,8.3763561424936e-06
+594,CMTR1,109.6227035522461,"7-methylguanosine mRNA capping, cap1 mRNA methylation, mRNA (nucleoside-2'-O-)-methyltransferase activity, mRNA methylation, mRNA processing",0.06924055642301268,3.284321299583612e-06,9.687997988726089e-06
+178,U2AF2,310.15142822265625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, positive regulation of RNA splicing",0.06900084347730115,3.5514214150792347e-06,1.0428264700641754e-05
+11,IKBKE,214.76763916015625,mRNA stabilization,0.0687195687841632,3.8914024386044e-06,1.1374868666689784e-05
+522,EIF4ENIF1,33.83209991455078,"mRNA stabilization, negative regulation of deadenylation-dependent decapping of nuclear-transcribed mRNA, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.0685678179019238,4.0875594179205276e-06,1.1894429657552526e-05
+534,POLR2I,643.6490478515625,mRNA cleavage,0.0685376740924055,4.127635909791144e-06,1.195718743374475e-05
+114,RBMX2,281.14813232421875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.06811197121081808,4.735402764909093e-06,1.3656563330943189e-05
+416,CDK9,154.24581909179688,negative regulation of mRNA polyadenylation,0.06778535839872313,5.25886414175081e-06,1.5031974493677095e-05
+5,AP3B1,233.838623046875,mRNA transcription by RNA polymerase II,0.06744961661918727,5.8544686260310005e-06,1.6612475065993715e-05
+405,CWC27,247.65057373046875,"mRNA splicing, via spliceosome",0.06744492795406024,5.8632264938801345e-06,1.6612475065993715e-05
+520,CNOT2,686.61865234375,nuclear-transcribed mRNA poly(A) tail shortening,0.06721087885634759,6.316690448252479e-06,1.7819135500310486e-05
+498,ISY1,397.75164794921875,"RNA splicing, generation of catalytic spliceosome for second transesterification step, mRNA 3'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome",0.06695172172456602,6.8579032456174555e-06,1.9178378773458336e-05
+177,CPSF2,148.3189239501953,"mRNA 3'-end processing by stem-loop binding and cleavage, mRNA cleavage, mRNA polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.06687705460714582,7.021886610398234e-06,1.955232219964336e-05
+337,THOC6,191.32899475097656,"RNA splicing, mRNA processing",0.06647469955591298,7.972081167696883e-06,2.210285164949436e-05
+476,PABPN1,253.49252319335938,mRNA processing,0.06579946099477632,9.848687909314188e-06,2.7189112775286177e-05
+308,CSTF1,122.57901000976562,"mRNA 3'-end processing, mRNA processing",0.06547391155739735,1.0897592044826243e-05,2.995678494024576e-05
+197,PABPC1L,78.6618881225586,mRNA polyadenylation,0.06524059715754166,1.1714023591175891e-05,3.2064657796184855e-05
+348,RBM23,218.28204345703125,"RNA splicing, mRNA processing, regulation of mRNA splicing, via spliceosome",0.06500858524044469,1.2583568604019696e-05,3.42995161105347e-05
+152,EFTUD2,104.18832397460938,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.06476883411222019,1.3546632538095207e-05,3.676943117482985e-05
+72,RBM25,1103.734375,"RNA splicing, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.06452638661376733,1.4591770109544566e-05,3.944051669776481e-05
+523,SF3B1,1026.509521484375,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, splicing factor binding",0.0644361654308437,1.4999972353413268e-05,4.032643907612001e-05
+489,CIR1,395.99676513671875,"RNA splicing, mRNA processing",0.06442232485667873,1.5063548445368786e-05,4.032643907612001e-05
+497,SSU72,775.9796142578125,"mRNA polyadenylation, mRNA processing",0.06441293891072938,1.5106808446472203e-05,4.032643907612001e-05
+215,METTL3,121.96724700927734,"mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity, mRNA (N6-adenosine)-methyltransferase activity, mRNA catabolic process, mRNA destabilization, mRNA methylation, mRNA processing, mRNA splicing, via spliceosome",0.06432638818696283,1.551134183531737e-05,4.123591286261325e-05
+572,CWC15,410.48028564453125,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.06417943482378169,1.6221941532546307e-05,4.294825504108572e-05
+401,UPF2,247.0733642578125,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.06388406116156034,1.774515928470807e-05,4.678927713437312e-05
+627,PAF1,246.34628295898438,"mRNA polyadenylation, positive regulation of mRNA 3'-end processing",0.06348855416150653,1.9999129439031965e-05,5.251803909599451e-05
+479,IWS1,282.40447998046875,"RNA splicing, mRNA processing, regulation of mRNA processing",0.06335814870113769,2.0800253872646196e-05,5.440066397461313e-05
+240,PRMT1,646.622314453125,RNA splicing,0.06320187901517545,2.180051920328019e-05,5.6786836311770177e-05
+424,SMNDC1,227.06370544433594,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing",0.06304441240060801,2.2854642608913356e-05,5.929357078457039e-05
+484,CPSF1,106.95049285888672,"mRNA polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.06295873537038994,2.34483775467168e-05,6.059060758071621e-05
+631,SUPT6H,199.69277954101562,"RNA splicing, mRNA processing, mRNA transcription by RNA polymerase II, regulation of mRNA processing",0.06288817847841122,2.3948318980385666e-05,6.163591259493681e-05
+419,PLRG1,194.0678253173828,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.06287414841556496,2.404893216089194e-05,6.164924672990553e-05
+325,UPF3B,235.79519653320312,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.061899940989456566,3.2107939663784706e-05,8.166035048348394e-05
+238,ACIN1,284.78363037109375,"RNA splicing, mRNA processing, negative regulation of mRNA splicing, via spliceosome",0.06141994270100785,3.696533164346214e-05,9.364550683010408e-05
+485,EXOSC7,228.58160400390625,"exonucleolytic catabolism of deadenylated mRNA, nuclear mRNA surveillance, nuclear polyadenylation-dependent mRNA catabolic process, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.06098006185906712,4.202237988565301e-05,0.00010580275719882116
+105,SNRPE,678.0693359375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal snRNP assembly",0.06097437958072643,4.2091808978478384e-05,0.00010580275719882116
+541,CDC5L,201.73040771484375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.06089032431603065,4.313163410526523e-05,0.00010799626213954007
+634,SREK1,318.87017822265625,"RNA splicing, mRNA processing",0.060804633422120266,4.4216740360292846e-05,0.00010986159335672761
+549,WDR33,553.2266845703125,"mRNA polyadenylation, mRNA processing",0.05943318409733636,6.552437323941627e-05,0.0001621791000485169
+486,PAIP1,217.38674926757812,mRNA stabilization,0.058988955258827316,7.429705503235776e-05,0.00018265700523182587
+347,RNGTT,120.13675689697266,"7-methylguanosine mRNA capping, mRNA processing",0.05898578607900779,7.436345569035635e-05,0.00018265700523182587
+222,CWC22,189.3035888671875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome",0.05865915119659794,8.151621440502723e-05,0.00019946770646078632
+402,GRSF1,588.895263671875,"mRNA polyadenylation, mRNA processing, regulation of RNA splicing",0.058600751683402307,8.286169762530528e-05,0.00020199493081489512
+147,QKI,60.37916564941406,"RNA splicing, mRNA processing, regulation of mRNA splicing, via spliceosome",0.058521692798589806,8.471661356910933e-05,0.00020574034723926552
+329,SMG6,161.66256713867188,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.05841668852612809,8.724097483871958e-05,0.00021107741477832526
+73,EXOSC3,217.63616943359375,"exonucleolytic catabolism of deadenylated mRNA, nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.05830822333751755,8.992303243949773e-05,0.0002167547722235654
+113,CLNS1A,1215.5286865234375,"mRNA cis splicing, via spliceosome, spliceosomal snRNP assembly",0.058115542440886826,9.488054886293401e-05,0.00022701049839057546
+257,PPP1R9B,104.0955810546875,RNA splicing,0.05808783256683525,9.561436988094222e-05,0.00022792207728077
+124,SERBP1,1707.2763671875,regulation of mRNA stability,0.05778117420016336,0.00010410123246987022,0.00024724042711594176
+602,SNRNP200,409.7580871582031,"RNA splicing, cis assembly of pre-catalytic spliceosome, mRNA processing, mRNA splicing, via spliceosome, spliceosome conformational change to release U4 (or U4atac) and U1 (or U11)",0.05714478321727156,0.00012403269917592174,0.00029242745864104175
+478,RTCB,330.20184326171875,"tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate, tRNA splicing, via endonucleolytic cleavage and ligation",0.056692608989000894,0.0001403237617423641,0.0003296332730384262
+406,CNOT6,54.46339797973633,"exonucleolytic catabolism of deadenylated mRNA, nuclear-transcribed mRNA catabolic process, no-go decay, nuclear-transcribed mRNA poly(A) tail shortening",0.05628255823183708,0.00015682009657343047,0.0003657248461604191
+575,MTOR,109.88433837890625,mRNA stabilization,0.055842469328438414,0.00017654583314155524,0.00041024679212030464
+139,WBP11,358.184814453125,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing",0.055725577851430994,0.00018216442377149106,0.0004217857267253879
+104,CSTF2,85.95252990722656,"mRNA 3'-end processing, mRNA polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.05509563094169046,0.00021545096314161906,0.0004970761506767354
+55,RC3H2,184.266357421875,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.0545007183288047,0.0002520565989257794,0.0005794610779574856
+377,HNRNPU,948.398681640625,"CRD-mediated mRNA stabilization, RNA splicing, mRNA metabolic process, mRNA processing, mRNA splicing, via spliceosome, mRNA stabilization, regulation of alternative mRNA splicing, via spliceosome",0.0544682635533638,0.0002542124763650863,0.0005822760136182203
+550,CTR9,220.312255859375,negative regulation of mRNA polyadenylation,0.05445522026434752,0.0002550837644798086,0.0005822760136182203
+50,DDX46,715.7726440429688,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.054233758689327956,0.0002703113586724819,0.0006148631609240256
+260,SCAF1,69.01666259765625,"RNA splicing, mRNA processing",0.05400362799305858,0.00028703471523202647,0.0006506120211925933
+285,TAF15,503.2573547363281,mRNA stabilization,0.05363345821833142,0.0003159812260224769,0.0007112330035209759
+577,FASTK,318.2483215332031,"regulation of RNA splicing, regulation of mitochondrial mRNA stability",0.053592844075563584,0.0003193183529442775,0.0007162488055625114
+436,NBDY,945.717529296875,"mRNA processing, nuclear-transcribed mRNA catabolic process",0.053493735780455694,0.000327600688893933,0.0007322838928217326
+213,BUD13,101.71519470214844,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.05282632984984615,0.00038882778240090666,0.0008661474049344334
+353,CEBPG,173.84388732910156,mRNA metabolic process,0.052536850276767466,0.00041857638297773274,0.0009292108020742796
+326,VIRMA,109.02025604248047,"RNA splicing, mRNA alternative polyadenylation, mRNA methylation, mRNA processing",0.052348080581751985,0.0004391058601682742,0.0009714465262626888
+75,SF3A1,427.6480712890625,"RNA splicing, U2-type prespliceosome assembly, mRNA 3'-splice site recognition, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.05181669056742202,0.0005020535624092351,0.0011069167280422043
+249,ESS2,116.05780029296875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.051769987596618904,0.0005079703423601677,0.0011161525209682597
+323,SMG5,127.3857650756836,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.05169869764259282,0.0005171274610058377,0.001130956582820792
+15,MOV10,86.35215759277344,"3'-UTR-mediated mRNA destabilization, mRNA cleavage involved in gene silencing by miRNA, positive regulation of mRNA catabolic process",0.05167688454663038,0.0005199599150120359,0.001130956582820792
+399,PRPF6,337.4693298339844,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal tri-snRNP complex assembly",0.051603268319573556,0.0005296261259096993,0.0011481156957639789
+85,SLC38A2,791.166748046875,positive regulation of RNA splicing,0.05154990148773463,0.0005367378595861357,0.001159640994289778
+567,SMG7,174.15133666992188,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.051451980863582075,0.0005500187457724861,0.0011843736992300867
+477,NSRP1,234.0693359375,"RNA splicing, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.05120132286463976,0.0005854224259777549,0.001248013789093342
+143,ATF2,166.3516845703125,mRNA transcription by RNA polymerase II,0.05119758220972987,0.0005859664791042922,0.001248013789093342
+581,RBM6,333.71649169921875,"mRNA splicing, via spliceosome",0.051196790804205645,0.0005860816440117922,0.001248013789093342
+281,THOC1,97.10543823242188,"RNA splicing, mRNA processing",0.05118842303605599,0.0005873006066321609,0.001248013789093342
+269,COIL,141.77001953125,spliceosomal snRNP assembly,0.05059408397225675,0.0006801706942930307,0.0014406238311911405
+427,RNF20,99.57955169677734,negative regulation of mRNA polyadenylation,0.050386716741755,0.0007156635904650714,0.0015108453576484842
+99,DHX16,163.58004760742188,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0503525015994122,0.0007216825886296494,0.0015185894210252558
+192,PPP1R8,85.89872741699219,"RNA splicing, mRNA processing",0.05008866184347406,0.0007696997104352965,0.001614370171887018
+170,HNRNPH2,219.32235717773438,regulation of RNA splicing,0.0497882666322542,0.0008279715146697792,0.001730969574358179
+176,SFPQ,528.69970703125,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing",0.04956502953043156,0.0008738973958140349,0.0018210894119221502
+97,CNOT3,138.90200805664062,nuclear-transcribed mRNA poly(A) tail shortening,0.048700944017004935,0.0010748313523108663,0.002225452094848781
+110,FASTKD3,75.6051025390625,regulation of mitochondrial mRNA stability,0.048070342254204056,0.001247564789756218,0.002570472335258956
+275,UPF1,68.36528778076172,"3'-UTR-mediated mRNA destabilization, histone mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, positive regulation of mRNA catabolic process",0.0480640025890075,0.0012494246335469229,0.002570472335258956
+519,TFCP2,80.1910400390625,mRNA transcription by RNA polymerase II,0.04787336628968695,0.0013065608388426796,0.0026794866726741937
+127,KHSRP,92.96638488769531,"3'-UTR-mediated mRNA destabilization, RNA splicing, RNA splicing, via transesterification reactions, mRNA catabolic process, mRNA processing, positive regulation of mRNA catabolic process, regulation of mRNA stability",0.04781481546913389,0.0013245873059273645,0.0027078588595856883
+123,SMU1,258.9095458984375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.04779995310622825,0.001329199454657561,0.0027087156079141465
+9,FXR2,24.926212310791016,"regulation of alternative mRNA splicing, via spliceosome, regulation of mRNA stability",0.04776973981331975,0.001338621062552368,0.0027193371270717915
+1,CCDC130,292.68572998046875,RNA splicing,0.04768463752510554,0.001365491141242744,0.0027565852413837895
+76,ZBTB7A,126.74356842041016,"regulation of alternative mRNA splicing, via spliceosome",0.04746163348781862,0.001438278741282552,0.002894479959091989
+71,CLK1,1024.7801513671875,regulation of RNA splicing,0.04742338362958707,0.0014511167954246477,0.002911246738646964
+356,PATL2,242.4694061279297,deadenylation-dependent decapping of nuclear-transcribed mRNA,0.0473293487821071,0.0014831284811037274,0.002966256962207455
+63,TRUB2,103.33479309082031,"mRNA processing, mRNA pseudouridine synthesis",0.046931522924003904,0.0016258846567583716,0.0032417329884750247
+70,TFIP11,126.56593322753906,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex disassembly",0.04680370385399848,0.0016743685750861097,0.00332812953694039
+125,WTAP,524.8482055664062,"RNA splicing, mRNA methylation, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.0466295707767552,0.0017425609948173318,0.003453050314883424
+629,PNRC2,742.1148681640625,"deadenylation-independent decapping of nuclear-transcribed mRNA, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.045816872268192796,0.002095870651730831,0.004140466180483538
+205,CDK11B,126.89610290527344,regulation of mRNA processing,0.045035256350434934,0.0024964979052501763,0.004916883069486628
+134,RBM3,2891.9052734375,"positive regulation of mRNA splicing, via spliceosome",0.04471967905599746,0.0026772293727090096,0.0052568090418541645
+48,PRPF4B,433.34747314453125,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.04446272230846657,0.0028331320732926228,0.005546070664687983
+591,EIF4A3,566.4918212890625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.044386635967648774,0.0028808609105462017,0.005622465704570532
+314,SRPK2,284.5516357421875,"RNA splicing, mRNA processing, regulation of mRNA processing, regulation of mRNA splicing, via spliceosome, spliceosomal complex assembly",0.044283262003268334,0.002946883082330478,0.005733995395137014
+210,SRSF6,190.45159912109375,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.044187092988924516,0.0030095399419444707,0.005803471052227248
+12,HIPK3,181.0467529296875,mRNA transcription,0.044077317691550884,0.0030825449671765125,0.005915458724675012
+145,TIA1,244.8115997314453,"regulation of mRNA splicing, via spliceosome",0.04407228817177063,0.003085928158228296,0.005915458724675012
+64,LARP1,202.9140167236328,mRNA stabilization,0.04268659007057281,0.004157951808782376,0.007876940963265147
+320,GTPBP1,104.94349670410156,positive regulation of mRNA catabolic process,0.042002362020793486,0.0048032026433436495,0.00907271610409356
+490,AGO2,110.45823669433594,"endoribonuclease activity, cleaving miRNA-paired mRNA, mRNA cleavage involved in gene silencing by miRNA, mRNA cleavage involved in gene silencing by siRNA, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.04189901225873918,0.004908176521010096,0.00924397094044467
+38,PPIG,985.0869750976562,RNA splicing,0.041872532203995436,0.004935404453632484,0.009268230456530769
+251,MAPK14,63.94499206542969,3'-UTR-mediated mRNA stabilization,0.04149784668101463,0.005335585582635198,0.009961815856596353
+189,CMTR2,58.38224792480469,"7-methylguanosine mRNA capping, cap1 mRNA methylation, cap2 mRNA methylation, mRNA (nucleoside-2'-O-)-methyltransferase activity, mRNA processing",0.04118151807664605,0.005695994937420247,0.010577280905141503
+115,EXOSC10,159.5291290283203,"histone mRNA catabolic process, nuclear mRNA surveillance, nuclear retention of unspliced pre-mRNA at the site of transcription, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.04117982813013201,0.005697977948899757,0.010577280905141503
+24,THOC2,418.94708251953125,"RNA splicing, mRNA processing",0.0409035229650715,0.006030694130716127,0.011162832115881427
+100,SAMD4B,35.21593475341797,"nuclear-transcribed mRNA poly(A) tail shortening, regulation of mRNA stability",0.040398032436234,0.006684970869979564,0.012338546234305138
+171,DCP1B,78.65989685058594,"deadenylation-dependent decapping of nuclear-transcribed mRNA, deadenylation-independent decapping of nuclear-transcribed mRNA, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.04030443883975228,0.006812886492883264,0.012538816736189713
+283,RNF40,117.31674194335938,negative regulation of mRNA polyadenylation,0.039898037756561505,0.00739419430490015,0.013570027048197436
+169,STRAP,970.3063354492188,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, spliceosomal snRNP assembly",0.039871232723946264,0.007434055286171672,0.01360453177016119
+90,MBNL2,107.34146881103516,"RNA splicing, mRNA processing, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.039689940452263414,0.007708745543656308,0.014054296910221654
+555,CPSF4,41.84321594238281,"mRNA processing, pre-mRNA cleavage required for polyadenylation",0.03968047337393093,0.007723336537350909,0.014054296910221654
+117,WBP4,126.09579467773438,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.03962256928029342,0.007813120038548687,0.014177740294669807
+369,PRKRIP1,208.24298095703125,"RNA splicing, mRNA processing",0.03943665253749106,0.008107747151384334,0.014602893549908333
+448,SNRPD3,33.14506912231445,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.039335945645089736,0.008271456986884836,0.014842670037576678
+141,PUM1,211.49813842773438,"mRNA destabilization, regulation of mRNA stability",0.0392861349028905,0.008353517419234575,0.014947248510243457
+626,TNRC6A,119.6353530883789,positive regulation of nuclear-transcribed mRNA poly(A) tail shortening,0.03927255690815332,0.008376012323077603,0.014947248510243457
+266,PNPT1,121.38792419433594,"mRNA catabolic process, mRNA processing, mitochondrial mRNA catabolic process, mitochondrial mRNA polyadenylation, nuclear polyadenylation-dependent mRNA catabolic process, positive regulation of mRNA catabolic process",0.03919905166748647,0.00849873267257393,0.015124466409043413
+368,PRKACA,52.78636932373047,mRNA processing,0.03918081437330092,0.008529428442802354,0.015135866063789982
+259,ZCCHC8,114.47001647949219,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.039167442125602796,0.008551998627373596,0.015135866063789982
+389,U2AF1L4,467.8720703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.03891347344724883,0.008990911247206194,0.0158692040046317
+51,SF3A3,311.2949523925781,"RNA splicing, RNA splicing, via transesterification reactions, U2-type prespliceosome assembly, mRNA 3'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome",0.03874912215347906,0.009285556778897192,0.01634460403042939
+227,RBM10,142.2971649169922,"3'-UTR-mediated mRNA stabilization, RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.03869604073730511,0.009382543590586613,0.01647044336825802
+505,SCAF11,551.7760009765625,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, spliceosomal complex assembly",0.03867961384597843,0.009412740213524354,0.016478672568934233
+203,FAM172A,208.911865234375,"RNA splicing, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.038541677401097985,0.009669739468090665,0.016882842422666407
+295,GEMIN6,156.27890014648438,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal snRNP assembly",0.0384961906639396,0.009755849788926992,0.01695812209633583
+258,HABP4,36.70124816894531,"RNA splicing, mRNA processing, positive regulation of RNA splicing",0.03849118989579137,0.009765358235041686,0.01695812209633583
+234,LEO1,113.20953369140625,"mRNA polyadenylation, positive regulation of mRNA 3'-end processing",0.03822995205788209,0.010273700979592808,0.017793058533021325
+199,MYEF2,53.195030212402344,regulation of mRNA stability involved in response to oxidative stress,0.03815098866917865,0.010431922714408647,0.018018775597614934
+624,RBM19,90.0066146850586,"mRNA splicing, via spliceosome",0.03810348902383074,0.010528140059994424,0.018136475943350393
+605,SMG9,105.29881286621094,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.03807562113598008,0.010584957055231572,0.018141087760724293
+154,PRPF38B,1005.3809814453125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.038074630604328794,0.010586981556955198,0.018141087760724293
+564,RC3H1,266.537841796875,"3'-UTR-mediated mRNA destabilization, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of mRNA catabolic process, regulation of mRNA stability, regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.03779271945261719,0.011177350432537496,0.019051631607966288
+598,HSF1,545.5564575195312,"mRNA processing, mRNA transcription, positive regulation of mRNA polyadenylation",0.03767921029549279,0.011423193908195338,0.019386865847717483
+322,PTBP2,53.188438415527344,"RNA splicing, mRNA processing, negative regulation of RNA splicing, regulation of RNA splicing",0.037674248342643664,0.011434049362198702,0.019386865847717483
+135,CPEB3,14.970979690551758,"3'-UTR-mediated mRNA destabilization, positive regulation of mRNA polyadenylation, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.037659562921959495,0.011466230873341698,0.019390537026645907
+78,PATL1,80.73405456542969,deadenylation-dependent decapping of nuclear-transcribed mRNA,0.03753046051254955,0.011752621466808926,0.019822959445322627
+69,SF3B3,212.85853576660156,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.03741150893930371,0.01202208990954461,0.020195555306448357
+39,RBM22,304.9589538574219,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, positive regulation of RNA splicing",0.037405410804507225,0.012036050763130987,0.020195555306448357
+558,SART1,111.22257232666016,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.03728718388573795,0.012309569151068768,0.02060098878650369
+276,RBMXL1,102.83900451660156,"RNA splicing, mRNA processing, mRNA splice site selection, positive regulation of mRNA splicing, via spliceosome",0.03714545362318184,0.012644706570276812,0.021107184610849664
+349,PRMT5,58.69432067871094,spliceosomal snRNP assembly,0.03710204457711825,0.012748955007959532,0.021226352925623342
+204,LSM7,1698.59912109375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process",0.03667835158708061,0.013807079803998222,0.02287018859841757
+42,MTREX,138.30609130859375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.03574203893437798,0.01642431089741098,0.027135818004418142
+188,RBM27,342.0697021484375,mRNA processing,0.0356217338880824,0.016790358967803842,0.027669826258166535
+3,HNRNPH3,791.9139404296875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of RNA splicing",0.03559231156566528,0.0168809635144335,0.027748352240010283
+307,DAZAP1,226.570556640625,"positive regulation of mRNA splicing, via spliceosome",0.03544125368803818,0.017352925675209442,0.02845175123397284
+588,SMG8,15.877340316772461,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.03540954380521596,0.017453455707212354,0.028544132624959955
+82,RBM4,428.0723571777344,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.03476730554161426,0.01960231437091287,0.03197751283739827
+614,CELF2,1294.14453125,"mRNA processing, mRNA splice site selection, regulation of alternative mRNA splicing, via spliceosome",0.03456424631619059,0.02032817365441196,0.03307808609760737
+636,ZC3H12D,36.51945114135742,"3'-UTR-mediated mRNA destabilization, mRNA catabolic process",0.03432559707070215,0.021211120170456742,0.0344280995731534
+458,DHX9,235.4300994873047,"CRD-mediated mRNA stabilization, RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, regulation of mRNA processing",0.03423239712424257,0.021564900396746918,0.034914600642352155
+413,CPSF7,122.22151947021484,"mRNA alternative polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.03395982097775407,0.022629208869902523,0.03654617232489257
+164,SRSF3,1958.499267578125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome",0.03351010905717188,0.024485012519804856,0.039248928257553196
+561,TENT4B,80.8067626953125,"histone mRNA catabolic process, mRNA polyadenylation, mRNA processing, negative regulation of nuclear-transcribed mRNA poly(A) tail shortening, positive regulation of 3'-UTR-mediated mRNA stabilization",0.03291089487001268,0.027161653900158737,0.04343175351362016
+381,RBM28,116.0138931274414,"RNA splicing, mRNA processing",0.032565670081208906,0.028815552338228675,0.045962584717273394
+166,RBM41,60.621192932128906,"mRNA splicing, via spliceosome",0.03243201598603784,0.029478751644021372,0.04690461468482218
+312,SKIV2L,84.45338439941406,"nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay",0.032365799314159276,0.029812156535980877,0.04731855803991068
+492,SYMPK,117.67428588867188,"mRNA polyadenylation, mRNA processing",0.032148107594933646,0.030931185641681458,0.04897437726599564
+640,SUPV3L1,212.81256103515625,mitochondrial mRNA catabolic process,0.03199943878222007,0.031715957998624894,0.050094153709319515
+226,NANOS3,4.358046531677246,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.031919253039340026,0.032146273165759666,0.050526745657130764
+26,AKAP17A,111.51087951660156,"RNA splicing, mRNA processing, regulation of RNA splicing",0.03186174378026881,0.03245796695696531,0.05089283168495046
+59,RIDA,86.29216766357422,"mRNA catabolic process, mRNA destabilization",0.03179709086480248,0.03281146539144517,0.05123916640927811
+440,CLK4,261.3330383300781,regulation of RNA splicing,0.03179235573692977,0.03283748435517204,0.05123916640927811
+198,DKC1,170.80908203125,mRNA pseudouridine synthesis,0.0316395927279515,0.033686425334548055,0.05243718256895914
+80,SCAF4,157.0753631591797,mRNA processing,0.03154316733416457,0.03423188846288217,0.053158172949571834
+430,RAMACL,53.14891052246094,recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex,0.03146415321887161,0.03468446689517908,0.05373181202466591
+37,PAPOLG,85.3718032836914,"mRNA polyadenylation, mRNA processing",0.03128858033825219,0.03570843425824569,0.055054053772856125
+126,SAFB2,281.04229736328125,regulation of mRNA processing,0.03120188435969278,0.03622349308774729,0.055715182225439884
+543,EDC3,57.64012908935547,deadenylation-independent decapping of nuclear-transcribed mRNA,0.03111039492702704,0.0367738815108744,0.05642738113070039
+158,GEMIN2,57.684173583984375,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, spliceosomal complex assembly, spliceosomal snRNP assembly",0.03092084496745976,0.03793687802078222,0.057936697875709965
+482,NUP98,257.2732238769531,"positive regulation of mRNA splicing, via spliceosome",0.03058003807128129,0.04010663734652477,0.061105867277959906
+81,NOL3,1.9440476894378662,"RNA splicing, mRNA processing, mRNA splice site selection",0.03041974174496048,0.04116301504112318,0.06256778286250722
+305,PHRF1,95.238525390625,mRNA processing,0.030304436161002073,0.04193738638564901,0.06344625668648539
+469,CLK2,70.39035034179688,regulation of RNA splicing,0.030172388773773817,0.04283929688923913,0.06465931259450579
+544,PKP3,2.6749496459960938,negative regulation of mRNA catabolic process,0.03000820903445171,0.043983488603675285,0.06607752008831216
+391,PAN3,68.58268737792969,"mRNA processing, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, nuclear-transcribed mRNA poly(A) tail shortening",0.02981220891579382,0.045383112089348386,0.06802201951210918
+2,ZC3H13,390.03094482421875,"RNA splicing, mRNA methylation, mRNA processing",0.029684924907317615,0.04631199058377747,0.06925357851185242
+618,RBFOX3,8.026374816894531,"RNA splicing, mRNA processing, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.02957771586400148,0.047106734893804625,0.07027933196627664
+362,ROCK2,41.414703369140625,mRNA destabilization,0.029392761859473208,0.04850475963953801,0.07219832886438146
+496,FMR1,68.48306274414062,"RNA splicing, mRNA processing, negative regulation of mRNA catabolic process, regulation of alternative mRNA splicing, via spliceosome, regulation of mRNA stability",0.029245207721512304,0.04964491797516941,0.07372555634933203
+25,DDX1,108.33940124511719,"mRNA processing, spliceosomal complex assembly, tRNA splicing, via endonucleolytic cleavage and ligation",0.02920553402671587,0.04995528392489468,0.07401631517312376
+241,ZC3H14,103.42948150634766,"negative regulation of mRNA polyadenylation, regulation of mRNA stability",0.02916755161631295,0.050253941142000984,0.07428843473165363
+19,SRSF10,700.464599609375,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, regulation of RNA splicing, regulation of mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",0.02911570139531448,0.050664055300094386,0.0746068770731691
+83,ZNF326,138.10455322265625,"RNA splicing, mRNA processing, regulation of RNA splicing",0.029111131030651997,0.05070033906365516,0.0746068770731691
+232,BAG4,103.06370544433594,negative regulation of mRNA modification,0.02898853891495082,0.05168173836712271,0.07587818860263926
+483,TTF2,52.416194915771484,"RNA splicing, mRNA processing",0.028954684201082503,0.051955542421171334,0.07593502353863503
+385,PRPF4,127.03211212158203,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.02889014480301071,0.052480873456998145,0.07652967100049841
+625,SART3,129.42433166503906,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly, spliceosomal tri-snRNP complex assembly",0.028593205413248942,0.05495539783926133,0.0799576283877541
+66,AKAP8L,133.93060302734375,"RNA splicing, mRNA processing",0.028097250578417853,0.05930492409900213,0.08570689254576147
+87,TARDBP,221.52365112304688,"3'-UTR-mediated mRNA destabilization, 3'-UTR-mediated mRNA stabilization, RNA splicing, mRNA processing",0.02806206111753275,0.05962409334079785,0.08597581316552547
+635,PPWD1,227.9857177734375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.028029310151099343,0.05992242397307147,0.0862135543131496
+4,CTIF,4.641263961791992,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.02793288589886591,0.06080795145993445,0.08729319254026145
+187,ZNF638,389.7354736328125,RNA splicing,0.027794734431072568,0.06209555282109698,0.08855127400094624
+296,DDX39A,644.7500610351562,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.027488059228944497,0.06503453698760232,0.09233474921756285
+195,ZC3H10,19.887535095214844,"regulation of alternative mRNA splicing, via spliceosome",0.0273972301319158,0.0659266860059988,0.09339613850849829
+89,RBM38,183.03501892089844,"3'-UTR-mediated mRNA stabilization, RNA splicing, mRNA processing, regulation of RNA splicing",0.027014394859122017,0.06979848349157373,0.09866481473863596
+481,RAVER1,109.66267395019531,"regulation of alternative mRNA splicing, via spliceosome",0.026830185395118916,0.07172691726302925,0.10116940731859585
+517,SNIP1,112.360595703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.02681538004375745,0.07188378631916159,0.10116977333807928
+84,NOCT,37.71249008178711,"deadenylation-dependent decapping of nuclear-transcribed mRNA, mRNA stabilization",0.026746158077462147,0.0726209544265706,0.10180018013222616
+365,NCL,1930.607421875,"positive regulation of mRNA splicing, via spliceosome",0.026743734295856778,0.07264687777237812,0.10180018013222616
+617,CDK11A,152.5047149658203,regulation of mRNA processing,0.026564564598784524,0.07458424124093295,0.10428878753602312
+418,DHX8,101.96491241455078,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex disassembly",0.026395624503237708,0.0764494438653974,0.10666596271500373
+229,FASTKD5,37.654083251953125,"mRNA processing, regulation of mitochondrial mRNA stability",0.026250081619964158,0.07808665754493598,0.10871547580609621
+615,YBX1,2410.349609375,"CRD-mediated mRNA stabilization, RNA splicing, mRNA processing, mRNA stabilization",0.026089119254715843,0.07993043830620124,0.11104314655012043
+589,ARL6IP4,2021.1236572265625,"RNA splicing, mRNA processing",0.025758329637325123,0.08383058124580894,0.1159626455777143
+106,ALKBH5,445.9714050292969,"mRNA processing, regulation of mRNA stability",0.025550966985155354,0.08635304317341327,0.11919672198723284
+181,RBM5,170.56610107421875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome, spliceosomal complex assembly",0.02544725939317584,0.08763739051991083,0.12071162958606056
+173,MBNL3,45.565216064453125,"RNA splicing, mRNA processing, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.02520582631650683,0.09068708291883291,0.12464650120333205
+200,MLH1,113.93820190429688,nuclear-transcribed mRNA poly(A) tail shortening,0.025175063403813525,0.09108172502161724,0.1249231302844262
+628,KIN,158.90463256835938,mRNA processing,0.025101649758365575,0.0920290911541907,0.12593388848125253
+548,EXOSC6,58.86129379272461,"nuclear mRNA surveillance, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.025087810808285482,0.09220855921305333,0.12593388848125253
+108,ECD,127.324951171875,"RNA splicing, mRNA processing",0.024554531840004976,0.0993409794455524,0.13510373204595125
+163,ZRSR2,120.1418228149414,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.02435826666886871,0.10207418915734287,0.13852925671353675
+52,NOVA1,12.1481351852417,"RNA splicing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",0.024294101583464928,0.10298062559256502,0.13946642375848428
+137,CWF19L1,104.80784606933594,"mRNA splicing, via spliceosome",0.0239414993495307,0.10807644532262885,0.14606147213058207
+217,TCERG1,300.0306396484375,"RNA splicing, mRNA processing",0.02385444589090181,0.10936476688562684,0.1474940279918892
+499,DYRK1A,111.49821472167969,"negative regulation of mRNA splicing, via spliceosome, positive regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",0.023729478891199328,0.11123536184720875,0.14970425781936844
+488,CSDE1,1140.4361572265625,"nuclear-transcribed mRNA catabolic process, no-go decay",0.023595407217421916,0.11327021773818238,0.15212590573568777
+290,SNRPA1,724.98388671875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.02347875203784966,0.11506448791309891,0.15421506056402884
+156,RBM15B,50.098289489746094,"RNA splicing, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.023252029681387003,0.11861555735571425,0.15864523820246668
+77,NCBP1,72.77120208740234,"7-methylguanosine mRNA capping, RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, positive regulation of mRNA 3'-end processing, positive regulation of mRNA splicing, via spliceosome, pre-mRNA cleavage required for polyadenylation, regulation of mRNA polyadenylation, regulation of mRNA processing, spliceosomal complex assembly",0.023175883020140137,0.1198272980321904,0.15993478208428719
+265,PPIH,455.34332275390625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.02304268874651228,0.12197013103088494,0.16245918483701377
+439,RP9,194.5291290283203,RNA splicing,0.023016143357676738,0.1224007511959356,0.1626949574560178
+586,YTHDF3,86.69112396240234,"mRNA destabilization, regulation of mRNA stability",0.023000760061167826,0.12265084254037256,0.1626949574560178
+120,EXOSC5,269.96026611328125,"exonucleolytic catabolism of deadenylated mRNA, nuclear mRNA surveillance, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.02291891307286496,0.12398817233673623,0.164131883871991
+610,SFSWAP,281.1883239746094,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA 5'-splice site recognition, mRNA processing, negative regulation of mRNA splicing, via spliceosome",0.022689309377394662,0.1278005007236192,0.16883256332813498
+172,PUS1,76.17745971679688,mRNA pseudouridine synthesis,0.021851862378647103,0.142481483900332,0.18784293591758056
+425,RPRD2,156.05886840820312,mRNA 3'-end processing,0.021644439501640654,0.14631044171295385,0.19148049957864832
+470,PARN,184.67535400390625,"mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, nuclear-transcribed mRNA poly(A) tail shortening",0.02159187758283158,0.14729310564685788,0.19222494191488929
+207,ZFP36L1,1770.2862548828125,"3'-UTR-mediated mRNA destabilization, mRNA catabolic process, mRNA processing, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, nuclear-transcribed mRNA catabolic process, deadenylation-independent decay, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, regulation of mRNA 3'-end processing, regulation of mRNA stability",0.021473324937390112,0.14952799942011566,0.19474816053507
+393,LUC7L3,465.1182861328125,"RNA splicing, mRNA processing, mRNA splice site selection",0.021076981468058347,0.15718763653179685,0.20390203453723044
+101,CDK13,147.90699768066406,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing",0.020957764457309482,0.15954879577647257,0.20613704414320255
+637,PELO,131.79222106933594,"nuclear-transcribed mRNA catabolic process, no-go decay, nuclear-transcribed mRNA catabolic process, non-stop decay",0.020604563158334043,0.16670156183598245,0.21452033654590572
+116,TIRAP,39.157875061035156,3'-UTR-mediated mRNA stabilization,0.02052023080358781,0.1684445026207019,0.2163323035645595
+423,CRNKL1,155.73565673828125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.02044840098441553,0.16993979981931112,0.21781966405411704
+360,CWC25,184.1688232421875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.020295650394705683,0.17315267444497737,0.22106052903449677
+157,CBLL1,85.56455993652344,mRNA methylation,0.020151921019948026,0.1762170480402706,0.22408703353152523
+49,LARP4B,49.66261291503906,positive regulation of 3'-UTR-mediated mRNA stabilization,0.01993989138571329,0.18081114125739156,0.22902744559269597
+159,DCP1A,222.35769653320312,"deadenylation-dependent decapping of nuclear-transcribed mRNA, deadenylation-independent decapping of nuclear-transcribed mRNA, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.01988344994193133,0.1820489235048198,0.23014404028202268
+91,ADARB2,50.142757415771484,mRNA processing,0.01942760926923002,0.19227674487199328,0.24212627132028786
+208,HTATSF1,217.5186767578125,"mRNA splicing, via spliceosome",0.01895608151607375,0.2032944905497055,0.2550062930002131
+46,CLK3,237.43096923828125,regulation of RNA splicing,0.018410492126373437,0.21660793074179857,0.27013267038455957
+13,NRDE2,60.33858871459961,"RNA splicing, mRNA processing",0.01833233872763643,0.2185652421602881,0.2716069994430587
+74,FTO,76.60040283203125,mRNA destabilization,0.018329720988584545,0.21863102122351474,0.2716069994430587
+623,PPIL3,311.171875,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.018238966806201167,0.2209203069859053,0.27392421941054673
+370,PRPF19,265.5358581542969,"RNA splicing, generation of catalytic spliceosome for first transesterification step, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal tri-snRNP complex assembly",0.018187749631720793,0.22221982515753094,0.2750076763443774
+537,CSTF2T,113.27165222167969,"mRNA 3'-end processing, mRNA processing, pre-mRNA cleavage required for polyadenylation",0.018047450692732385,0.22580758985993468,0.2787562170282217
+317,AAR2,122.1934585571289,"RNA splicing, mRNA processing, spliceosomal tri-snRNP complex assembly",0.017947871002061463,0.22837902705628613,0.2810149551968778
+291,RBM12,82.65634155273438,regulation of RNA splicing,0.017642152941066882,0.23640360564201846,0.2892362296301968
+62,CNOT7,581.9107666015625,"deadenylation-dependent decapping of nuclear-transcribed mRNA, exonucleolytic catabolism of deadenylated mRNA, nuclear-transcribed mRNA poly(A) tail shortening, positive regulation of mRNA catabolic process, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",0.01722026053102666,0.2478018301726587,0.30203770243686323
+563,CCAR2,101.0719985961914,"RNA splicing, mRNA processing",0.017139198246546243,0.2500351997633631,0.3041859492413042
+599,SSB,677.94384765625,"histone mRNA metabolic process, nuclear histone mRNA catabolic process",0.017099755819491018,0.251126957200924,0.304939876601122
+374,GCFC2,124.33995056152344,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly",0.016987458129729686,0.25425352789242356,0.3081571838996353
+248,PRPF39,82.2982406616211,"RNA splicing, mRNA 5'-splice site recognition, mRNA processing",0.016564909150967325,0.26626018657245415,0.3209031353093384
+221,PUM2,231.5818634033203,regulation of mRNA stability,0.01604123856777393,0.28167390738122866,0.3378466702781774
+390,RNASE4,3.848015308380127,mRNA cleavage,0.016027452737202175,0.28208769298561603,0.3378466702781774
+252,RNASEL,75.12191772460938,"mRNA processing, regulation of mRNA stability",0.016016706523003476,0.28241052933469935,0.3378466702781774
+61,PDCD7,59.03950119018555,RNA splicing,0.01596514777913544,0.2839629323791386,0.3390758859832228
+250,MAGOHB,144.6562042236328,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.01588333231845862,0.2864381806226703,0.34140048834362546
+354,SAFB,302.75897216796875,regulation of mRNA processing,0.015721478257073755,0.291377725463271,0.34664827007232607
+409,MEIOC,7.6168365478515625,mRNA stabilization,0.014859999384070718,0.3186277891009474,0.3756086710934526
+10,RNF113A,507.245849609375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, snoRNA splicing",0.013740359949263595,0.356459060661807,0.4179175193966013
+404,PTCD2,21.80137062072754,"mRNA processing, regulation of mRNA processing",0.013712730135009137,0.357427068469914,0.41829327215863127
+235,CLP1,35.76787185668945,"mRNA 3'-end processing, mRNA polyadenylation, mRNA processing, tRNA splicing, via endonucleolytic cleavage and ligation",0.013694147051887661,0.3580790546593029,0.41829849784793793
+383,RNPC3,125.59996795654297,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.013653728116104153,0.3594997311663599,0.4192000475333366
+45,PRKCD,13.852030754089355,regulation of mRNA stability,0.01362764460049571,0.36041841172470024,0.4195140431966781
+364,AGO1,48.47047424316406,"mRNA cleavage involved in gene silencing by miRNA, mRNA cleavage involved in gene silencing by siRNA, nuclear-transcribed mRNA catabolic process",0.013481075650868668,0.3656080316995445,0.42478918790990244
+398,SRSF12,0.7538966536521912,"RNA splicing, mRNA 5'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",0.01339529476713055,0.36866682725263034,0.4275421206538754
+300,CDC40,350.07470703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.013359080784492966,0.36996291864631015,0.4275421206538754
+460,TRA2A,374.0407409667969,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome",0.012801354313847765,0.39027980590868405,0.4494131098342422
+30,EXOSC2,82.53839111328125,"exonucleolytic catabolism of deadenylated mRNA, nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",0.012715651073514288,0.3934608277497207,0.45226991944184974
+254,ALYREF,24.123062133789062,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.0124364914391336,0.40393065134276196,0.4622490235529897
+444,PABPC3,2.153726100921631,mRNA metabolic process,0.012201839549277577,0.41285886597491084,0.4712134760067003
+516,DIS3L2,138.39952087402344,"mRNA catabolic process, nuclear-transcribed mRNA catabolic process, exonucleolytic, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5', polyuridylation-dependent mRNA catabolic process",0.012038894861547128,0.41912690744765835,0.4775237781502421
+630,HNRNPA1L2,31.94500732421875,"RNA splicing, mRNA processing",0.011995197794046744,0.42081728224485226,0.47860557100382844
+597,NT5C3B,226.06898498535156,exonucleolytic catabolism of deadenylated mRNA,0.011706227366348163,0.43209609259453796,0.4875587007718725
+438,TENT4A,28.42963409423828,"mRNA processing, negative regulation of nuclear-transcribed mRNA poly(A) tail shortening, positive regulation of 3'-UTR-mediated mRNA stabilization",0.011639027197910795,0.4347438518414618,0.48927618168917125
+214,SNRPF,1322.76220703125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.011418245181214669,0.4435085455801776,0.4974071535499909
+585,CACTIN,30.431880950927734,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.0113832577919637,0.44490669356884915,0.4981104402867878
+531,PPIL1,112.71221923828125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.011034257483592014,0.4589900874161541,0.5129889212298193
+351,PDE12,65.88733673095703,"mRNA processing, mitochondrial mRNA catabolic process, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, regulation of mitochondrial mRNA stability",0.0110093838203091,0.46000327223294657,0.5132333572754464
+495,PNN,597.0934448242188,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.010943523713256078,0.46269200084350104,0.5153431595601753
+8,EDC4,77.43485260009766,deadenylation-independent decapping of nuclear-transcribed mRNA,0.010814791654979946,0.4679726808865442,0.5197353338809112
+0,SLC11A1,18.048187255859375,mRNA stabilization,0.010291173862811316,0.4897920316903459,0.5420349004004182
+65,ANGEL2,181.60040283203125,3'-UTR-mediated mRNA stabilization,0.010285937206819815,0.4900129749749911,0.5420349004004182
+619,PUS7,32.39499282836914,mRNA pseudouridine synthesis,0.010088824190231188,0.4983683477371199,0.5493958236146407
+641,PRPF8,432.8025207519531,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",0.009870012441264408,0.5077314785919542,0.5587641144299871
+332,LSM11,5.422696113586426,"mRNA 3'-end processing by stem-loop binding and cleavage, mRNA processing",0.009523337844903597,0.5227528004237041,0.5723700153791743
+431,RPUSD2,81.69554901123047,mRNA pseudouridine synthesis,0.009403367760181375,0.5280037126379855,0.5771411139833141
+321,U2AF1,15.462628364562988,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.009375490519008678,0.5292276940193765,0.5775018417846575
+23,TENT2,193.6807861328125,"histone mRNA catabolic process, mRNA polyadenylation, mRNA processing",0.009312661940696692,0.5319915330945117,0.579538837064173
+233,ELAVL4,2.333775043487549,"3'-UTR-mediated mRNA stabilization, RNA splicing, mRNA processing, positive regulation of 3'-UTR-mediated mRNA stabilization, regulation of mRNA stability",0.00919666255867047,0.537113497886381,0.5841335347383874
+211,DND1,5.823733329772949,"3'-UTR-mediated mRNA destabilization, mRNA stabilization",0.009146975520837935,0.5393149893477465,0.5855419884346962
+352,AQR,112.68256378173828,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.009012682228000548,0.5452876648103908,0.5900432687898031
+395,USP49,5.552972316741943,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.008988265365658082,0.5463771167532284,0.5902334739508119
+372,GEMIN5,52.175174713134766,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal snRNP assembly",0.007752549862490285,0.6028775773877102,0.6480181613851261
+44,PAXBP1,50.8845100402832,"mRNA splicing, via spliceosome",0.007337367017566866,0.6224340916036408,0.6666810926938951
+268,TXNL4B,81.60868072509766,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",0.007323068234277811,0.6231124894845108,0.6666810926938951
+239,GPATCH1,40.979957580566406,"mRNA processing, mRNA splicing, via spliceosome",0.007318348150033608,0.6233365015280381,0.6666810926938951
+371,MEX3D,3.15726637840271,mRNA destabilization,0.007241253072150226,0.6270003020811412,0.6694912316436648
+313,DBR1,51.72031021118164,"RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",0.006995594776486017,0.6387358881032794,0.6797749319847093
+18,YTHDF1,31.59228515625,"mRNA destabilization, regulation of mRNA stability",0.006587724885570134,0.6584207218345635,0.6995720169492237
+132,CDK12,281.3231201171875,"RNA splicing, mRNA processing, regulation of RNA splicing",0.0063504854485706246,0.669981463244002,0.7106864125708132
+408,PNLDC1,1.3858935832977295,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, nuclear-transcribed mRNA poly(A) tail shortening",0.006267224595137477,0.674057562924372,0.7138380092608924
+202,DDX17,918.1929931640625,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",0.006075213228129892,0.683494002089053,0.7226466863331067
+582,BRDT,4.366909027099609,"RNA splicing, mRNA processing, regulation of RNA splicing",0.0058233329352746,0.6959478472171455,0.7334132288781012
+142,PDCD11,69.77308654785156,mRNA processing,0.005378966146992826,0.7181181904289886,0.7555445456304994
+573,NSUN2,115.69725036621094,"mRNA (cytidine-5-)-methyltransferase activity, mRNA methylation",0.005334325883059299,0.7203589255802302,0.7566697006907783
+542,RPRD1B,61.37554931640625,mRNA 3'-end processing,0.0045484222455629475,0.7601851566761281,0.7959150911066105
+420,RSRC1,211.58758544921875,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",0.0044676888705613,0.7643146835264363,0.79894382776388
+554,RBM39,2248.686279296875,"RNA splicing, mRNA processing, regulation of mRNA splicing, via spliceosome",0.004375332692107706,0.769046942440907,0.8025918009964877
+102,E2F1,2.073838949203491,mRNA stabilization,0.004328948078094493,0.7714269151225116,0.8037770760792621
+118,SMN2,2.630117416381836,"RNA splicing, mRNA processing",0.00420645186133277,0.7777224307857455,0.8090317073874261
+532,ADARB1,42.25656509399414,mRNA processing,0.004139527145193725,0.7811681309425295,0.8113096665415981
+367,RPRD1A,111.65991973876953,mRNA 3'-end processing,0.0035587385234742163,0.8112443741578917,0.8331698977837807
+606,PRMT7,138.74209594726562,spliceosomal snRNP assembly,0.0029555392582501848,0.8427781799898965,0.8628125265823663
+397,ZRANB2,378.4720764160156,"RNA splicing, mRNA processing",0.0022474838665312324,0.8801140709492277,0.8944453322239307
+193,TGS1,309.2668762207031,spliceosomal snRNP assembly,0.0021765289405907256,0.8838717002195147,0.896359683425128
+92,DIS3,101.66221618652344,exonucleolytic catabolism of deadenylated mRNA,0.0020692215707539723,0.8895594191940397,0.9007137692779775
+521,HNRNPA1P48,104.85704040527344,"RNA splicing, mRNA processing",0.0019491560229886855,0.8959301021146867,0.9057446728733766
+244,BCLAF1,718.27783203125,"RNA splicing, mRNA processing, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0.0016069512914896865,0.9141229672184351,0.9226928700361079
+279,SAMD4A,3.3826498985290527,"nuclear-transcribed mRNA poly(A) tail shortening, regulation of mRNA stability",0.00044344090707398236,0.9762596659329341,0.9792915282494961
+493,CLASRP,186.73046875,"RNA splicing, mRNA processing",1.2273722351108903e-05,0.9993428093258212,0.9993428093258212
+622,NBAS,121.02561950683594,"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, nuclear-transcribed mRNA catabolic process",-0.0003795156156076924,0.9796812089883585,0.9812000945836893
+557,SMN1,4.779794692993164,"RNA splicing, mRNA processing, spliceosomal complex assembly, spliceosomal snRNP assembly",-0.0007110781775655435,0.9619400902714348,0.9664281466801663
+392,TRMT6,133.88331604003906,mRNA methylation,-0.0008710479693486569,0.9533866803613595,0.9593267842888447
+525,DHX15,238.13731384277344,"RNA splicing, mRNA processing",-0.0011741466303623797,0.9371958382941755,0.9445062582496683
+304,FXR1,517.9247436523438,"regulation of alternative mRNA splicing, via spliceosome, regulation of mRNA stability",-0.002238316064390443,0.8805994292483281,0.8944453322239307
+403,MED1,130.89175415039062,mRNA transcription by RNA polymerase II,-0.0023837131420540716,0.8729072748810185,0.8894291791374416
+611,DDX5,3680.09765625,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, mRNA transcription, nuclear-transcribed mRNA catabolic process, regulation of alternative mRNA splicing, via spliceosome",-0.0027070849738274633,0.8558434990609163,0.8734200638125623
+264,RBM7,255.86546325683594,"regulation of alternative mRNA splicing, via spliceosome",-0.002832803276132806,0.8492272524938168,0.8680392485933635
+29,CELF6,11.198514938354492,"mRNA processing, mRNA splice site selection, regulation of alternative mRNA splicing, via spliceosome",-0.0034573937782919318,0.8165225601954216,0.8372596410892735
+247,ZHX2,103.62320709228516,mRNA catabolic process,-0.003644361846632227,0.806791647743396,0.8299162491118373
+454,METTL14,120.5580825805664,"mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity, mRNA catabolic process, mRNA destabilization, mRNA methylation, mRNA splicing, via spliceosome",-0.0037029589330498007,0.8037479790028699,0.8281039783665932
+111,LUC7L,274.726318359375,mRNA splice site selection,-0.0037275973617215165,0.8024690867428631,0.8281039783665932
+603,HNRNPH1,707.7862548828125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of RNA splicing",-0.0037282604105616803,0.8024346775516875,0.8281039783665932
+331,TTC37,153.23721313476562,"nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",-0.003764839429911056,0.8005369894511948,0.8281039783665932
+387,CNOT10,126.61624145507812,mRNA catabolic process,-0.0038080770286066873,0.7982953776550683,0.8277669566054159
+94,NCBP2,351.72607421875,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, positive regulation of mRNA 3'-end processing, pre-mRNA cleavage required for polyadenylation, regulation of mRNA polyadenylation",-0.004867171289655415,0.7439487648488503,0.7801800358642164
+450,TP53,85.0716781616211,mRNA transcription,-0.005835302811071743,0.6953541232939398,0.7334132288781012
+620,CELF1,222.61746215820312,"RNA splicing, mRNA destabilization, mRNA processing, mRNA splice site selection, regulation of RNA splicing, regulation of alternative mRNA splicing, via spliceosome",-0.0070402338736287925,0.6365965398158644,0.67861611340107
+350,RBM4B,34.30851745605469,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",-0.0084213376806725,0.5719716223064684,0.6158227800166309
+60,PRX,2.786010503768921,regulation of RNA splicing,-0.0084263689110092,0.5717419993341855,0.6158227800166309
+277,PQBP1,682.7501220703125,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA processing, regulation of RNA splicing",-0.00904992230537722,0.5436281341732714,0.5892345212683445
+93,DXO,196.938232421875,"mRNA catabolic process, nuclear mRNA surveillance, nuclear-transcribed mRNA catabolic process",-0.009636119993140499,0.5178410585072308,0.5679547093305113
+410,RAVER2,2.346419095993042,"regulation of alternative mRNA splicing, via spliceosome",-0.009692384313455127,0.5153996613110633,0.566238403413175
+506,KHDC4,78.85752868652344,"RNA splicing, mRNA processing, mRNA splice site selection",-0.010193130310861321,0.4939375308927004,0.5454421281310846
+334,MPHOSPH10,199.34518432617188,"RNA splicing, RNA splicing, via transesterification reactions",-0.010808186485114413,0.4682445268091181,0.5197353338809112
+96,CSTF3,73.75566101074219,"mRNA cleavage, mRNA polyadenylation, mRNA processing",-0.011484473829776347,0.4408688329216979,0.49530654968246407
+288,TRUB1,45.50666046142578,mRNA pseudouridine synthesis,-0.011696899586510169,0.4324630581149891,0.4875587007718725
+182,PUS3,121.1373291015625,mRNA pseudouridine synthesis,-0.011789418335931638,0.4288312492261458,0.48515759544674286
+327,ZNF473,46.528690338134766,mRNA 3'-end processing by stem-loop binding and cleavage,-0.011842880756685648,0.4267406984776937,0.48363945827471955
+88,PAN2,50.64473342895508,"mRNA processing, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, nuclear-transcribed mRNA poly(A) tail shortening",-0.011913321236203811,0.42399533957236024,0.4813725647868976
+107,KDM1A,56.410911560058594,"alternative mRNA splicing, via spliceosome",-0.012427013880050167,0.4042890066678625,0.4622490235529897
+133,CIRBP,3743.864501953125,"mRNA stabilization, positive regulation of mRNA splicing, via spliceosome",-0.012680159837378644,0.39478272877638065,0.4529833797327565
+560,PRKCA,40.9854736328125,regulation of mRNA stability,-0.013307488354219917,0.37181428305070685,0.4289143336620654
+570,RBM14,197.69955444335938,"mRNA splicing, via spliceosome",-0.013370459856001287,0.36955535928881555,0.4275421206538754
+473,BCAS2,773.7988891601562,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome",-0.013835168427467822,0.35315002844022436,0.41479076067706355
+468,POLR2D,188.606689453125,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex",-0.01391647658257066,0.3503277096258358,0.4122253195232968
+224,PSIP1,325.1695556640625,mRNA 5'-splice site recognition,-0.015095117398710358,0.31103021630656347,0.3673227051810603
+500,CPEB1,4.405368804931641,"mRNA processing, positive regulation of mRNA polyadenylation",-0.015133861094848032,0.30978981891440205,0.36652788098663686
+451,PRPF40B,17.25412368774414,"RNA splicing, mRNA cis splicing, via spliceosome, mRNA processing, mRNA splicing, via spliceosome",-0.015155353894088489,0.30910312746991564,0.36638645934966146
+34,YBX3,255.5602569580078,3'-UTR-mediated mRNA stabilization,-0.015299487986719661,0.30452407083831035,0.36162233412049355
+530,SCAF8,128.12631225585938,mRNA polyadenylation,-0.01627356700695174,0.27476241388773776,0.33053355562658954
+218,EXOSC8,391.1218566894531,"exonucleolytic catabolism of deadenylated mRNA, nuclear mRNA surveillance, nuclear polyadenylation-dependent mRNA catabolic process, nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",-0.016638008082273135,0.2641556561716762,0.3189617829661735
+524,TRMT61B,162.05072021484375,"mRNA (adenine-N1-)-methyltransferase activity, mRNA methylation",-0.016900525110222598,0.25669242148099247,0.3105305323534104
+220,PCBP3,20.867267608642578,mRNA metabolic process,-0.01723666839855219,0.24735147627232001,0.30203770243686323
+54,CCNB1,17.264495849609375,positive regulation of mRNA 3'-end processing,-0.017695861367951874,0.23497960454083264,0.28803951524360133
+219,MTPAP,25.641021728515625,"histone mRNA catabolic process, mRNA polyadenylation, mRNA processing",-0.017786803932378005,0.2325822581160702,0.28564284932125733
+131,DDX47,12.836216926574707,"RNA splicing, mRNA processing",-0.018035625929419954,0.22611185406004358,0.2787562170282217
+433,YTHDC1,507.72271728515625,"RNA splicing, mRNA alternative polyadenylation, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome",-0.018635790871223214,0.21103609240742843,0.26369306710870166
+236,HSPA8,5517.07080078125,"RNA splicing, mRNA processing, positive regulation of mRNA splicing, via spliceosome",-0.018710508680277384,0.20921133458117902,0.2619196165493055
+355,SRSF8,480.6630859375,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",-0.019080940734141336,0.20033326069964927,0.2517807128637615
+216,DHX35,39.82451248168945,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome",-0.019736505831877613,0.18530091896891338,0.23379764385530866
+212,SREBF1,70.84910583496094,mRNA transcription by RNA polymerase II,-0.020012260579251966,0.17923321183159102,0.22747476393557525
+546,CCNT1,209.19406127929688,negative regulation of mRNA polyadenylation,-0.020247429492558127,0.1741762949476363,0.2219287702883098
+487,RBM20,2.555964469909668,"RNA splicing, mRNA processing, positive regulation of RNA splicing, regulation of RNA splicing",-0.020335737714953644,0.17230513883380946,0.22041409838938794
+645,GSPT2,57.83605194091797,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",-0.02082516294433498,0.16220643808591126,0.20915241318063607
+280,RBM26,181.34329223632812,mRNA processing,-0.02097411067204417,0.1592234725228279,0.2061289844684305
+376,FASTKD1,99.4841537475586,regulation of mitochondrial mRNA stability,-0.02131695459063881,0.15251525427256746,0.1982391433804398
+56,DHX34,31.23288917541504,"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, nuclear-transcribed mRNA catabolic process, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",-0.021638230230738215,0.14642626438367223,0.19148049957864832
+35,AGO3,166.83993530273438,"endoribonuclease activity, cleaving miRNA-paired mRNA, mRNA catabolic process, mRNA cleavage involved in gene silencing by miRNA, mRNA cleavage involved in gene silencing by siRNA",-0.02171890190249565,0.14492693465166484,0.19029024346539733
+536,RBM12B,39.26666259765625,regulation of RNA splicing,-0.02180430820265254,0.14335245153908538,0.18860628043635266
+86,RRP1B,282.3026123046875,"RNA splicing, mRNA processing, regulation of RNA splicing",-0.02496910573936561,0.09375953399808215,0.12778198093409507
+569,YJU2,128.24342346191406,"RNA splicing, generation of catalytic spliceosome for first transesterification step, mRNA processing, mRNA splicing, via spliceosome",-0.025996698740339462,0.08100497546478759,0.11229445096620769
+330,ZFP36L2,4366.4541015625,"3'-UTR-mediated mRNA destabilization, mRNA catabolic process, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, regulation of mRNA stability",-0.02762136523488663,0.06374321626858033,0.09070069980066717
+20,DDX20,53.06416702270508,"RNA splicing, mRNA processing, spliceosomal snRNP assembly, spliceosomal tri-snRNP complex assembly",-0.02788198294647973,0.06127978109748844,0.08758128006410959
+333,PRPF3,144.63211059570312,"RNA splicing, RNA splicing, via transesterification reactions, mRNA processing, mRNA splicing, via spliceosome, spliceosomal tri-snRNP complex assembly",-0.02789150426990653,0.06119129633392564,0.08758128006410959
+302,AXIN2,3.1613168716430664,mRNA stabilization,-0.02821598877890765,0.058238408932929496,0.08435428737818937
+511,MRTO4,177.94912719726562,nuclear-transcribed mRNA catabolic process,-0.028405647029078246,0.0565679565157724,0.08211887620042466
+457,FUS,2342.293701171875,"RNA splicing, mRNA stabilization, regulation of RNA splicing",-0.028964511168116363,0.05187594097732603,0.07593502353863503
+255,GEMIN4,21.51798439025879,"RNA splicing, mRNA processing, spliceosomal snRNP assembly",-0.03009042908134808,0.04340730172749463,0.06536390889501523
+17,METTL16,111.79386901855469,"mRNA (N6-adenosine)-methyltransferase activity, mRNA catabolic process, mRNA destabilization, mRNA methylation, negative regulation of 3'-UTR-mediated mRNA stabilization, regulation of mRNA splicing, via spliceosome",-0.030370702627627852,0.041490860352131224,0.06291806522881871
+412,LSM4,896.0474853515625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, nuclear-transcribed mRNA catabolic process, spliceosomal snRNP assembly",-0.03103109289604642,0.0372566978703133,0.057032764986308986
+559,SNRPN,387.0311279296875,"RNA splicing, mRNA splicing, via spliceosome",-0.03142024485105091,0.034938167235979145,0.05399534936469504
+394,RNMT,411.1565856933594,"7-methylguanosine mRNA capping, mRNA (guanine-N7-)-methyltransferase activity, mRNA processing",-0.03191964711067306,0.03214414622007614,0.050526745657130764
+527,SECISBP2,510.0168762207031,"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",-0.03380444711863524,0.023256077279909783,0.037371706275675924
+428,TUT4,394.377197265625,"histone mRNA catabolic process, nuclear-transcribed mRNA poly(A) tail shortening, polyuridylation-dependent mRNA catabolic process",-0.03393980227762577,0.022709143175194527,0.03658380671116126
+600,ZNF830,157.26756286621094,"RNA splicing, mRNA processing",-0.03682111555411881,0.013442188668266408,0.022323017685604372
+128,SNRNP48,100.613037109375,"RNA splicing, mRNA processing",-0.03781761920128433,0.011124053849375582,0.019010949171155096
+363,CWF19L2,90.66773986816406,"mRNA splicing, via spliceosome",-0.039432009720651424,0.008115230316435126,0.014602893549908333
+510,TRMT61A,113.85586547851562,"mRNA (adenine-N1-)-methyltransferase activity, mRNA methylation",-0.039584278883915185,0.00787300373474369,0.01424638771048858
+16,PCF11,314.909423828125,"mRNA cleavage, mRNA polyadenylation, mRNA processing",-0.04152464468356538,0.005306020026710235,0.0099353302529125
+480,TUT1,101.33235168457031,"histone mRNA catabolic process, mRNA polyadenylation, mRNA processing, pre-mRNA cleavage required for polyadenylation",-0.042693053836967,0.004152250396329753,0.007876940963265147
+565,PABPC4,163.67916870117188,regulation of mRNA stability,-0.04332267697943295,0.0036297087840140145,0.006916790190185999
+309,SRSF5,2201.2197265625,"RNA splicing, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, positive regulation of RNA splicing",-0.04403777702767577,0.0031092341040847887,0.005942500684138383
+566,RBMX,779.5701293945312,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, negative regulation of mRNA splicing, via spliceosome, positive regulation of mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",-0.04421573399453053,0.0029907536470203696,0.005784511544835805
+67,NUDT12,5.970514297485352,mRNA catabolic process,-0.044266350741185026,0.002957814287781949,0.00573798207179321
+378,FASTKD2,113.80696105957031,regulation of mitochondrial mRNA stability,-0.04770701493211253,0.001358377946738707,0.0027508217980978206
+632,TBRG4,275.8849182128906,"mRNA metabolic process, mitochondrial mRNA processing, regulation of mitochondrial mRNA stability",-0.049223286623740495,0.0009487956415269169,0.0019708102393131456
+301,METTL4,171.52548217773438,regulation of RNA splicing,-0.05168541389418743,0.0005188506533989327,0.001130956582820792
+121,SRSF1,525.35498046875,"RNA splicing, alternative mRNA splicing, via spliceosome, mRNA 5'-splice site recognition, mRNA processing, mRNA splice site selection, mRNA splicing, via spliceosome, positive regulation of RNA splicing",-0.05393132324093194,0.00029248592930991146,0.0006606500361335762
+576,SNRPD2,4808.236328125,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, spliceosomal complex assembly, spliceosomal snRNP assembly",-0.05636749944208182,0.0001532598786778581,0.0003587169624126679
+452,ZC3H3,119.14747619628906,"mRNA 3'-end processing, regulation of mRNA polyadenylation",-0.05758896266338261,0.00010977789869899581,0.0002597674819031183
+435,THOC3,272.26544189453125,"RNA splicing, mRNA processing",-0.0582562505660702,9.12355999453074e-05,0.00021910110618835905
+243,BTG2,1712.3692626953125,positive regulation of nuclear-transcribed mRNA poly(A) tail shortening,-0.06081439942346688,4.409177870943023e-05,0.00010986159335672761
+380,APP,48.33427429199219,mRNA polyadenylation,-0.06274074772280251,2.5025879348504303e-05,6.390007137997541e-05
+286,TRAF3IP2,50.572593688964844,mRNA stabilization,-0.06715036342291733,6.439286160838234e-06,1.8085995043049998e-05
+150,ZC3HAV1,802.3050537109375,positive regulation of mRNA catabolic process,-0.06797570299515829,4.947429811826388e-06,1.4204620704177096e-05
+289,TRMT10C,272.0086364746094,"mRNA (adenine-N1-)-methyltransferase activity, mRNA methylation",-0.07012232415740317,2.4580623690918264e-06,7.419975043937026e-06
+361,LSM5,934.2548217773438,"RNA splicing, mRNA catabolic process, mRNA processing, mRNA splicing, via spliceosome",-0.07027559619255484,2.3364952808433126e-06,7.086272072416808e-06
+621,VIM,5601.3994140625,regulation of mRNA stability,-0.07209760477622182,1.2684130751861718e-06,4.056410131535975e-06
+160,PRMT9,263.4101257324219,mRNA processing,-0.0749407622046467,4.7482336518706123e-07,1.6315739037810722e-06
+47,RBM11,50.47195816040039,"RNA splicing, mRNA processing, regulation of alternative mRNA splicing, via spliceosome",-0.08174203673774708,3.912613126757501e-08,1.569905639680339e-07
+343,TSEN2,52.69895553588867,"mRNA processing, tRNA splicing, via endonucleolytic cleavage and ligation, tRNA-type intron splice site recognition and cleavage",-0.08638521308864322,6.322022482924801e-09,2.8559626041744205e-08
+465,TENT5A,68.16001892089844,mRNA stabilization,-0.08739382018703812,4.2009447801080976e-09,1.9384359485355936e-08
+533,TNRC6B,534.7838134765625,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",-0.08743793581647233,4.126079088158435e-09,1.9175878352160787e-08
+103,PCBP2,4777.5810546875,mRNA metabolic process,-0.09451512780011743,2.0577614836178438e-10,1.0467038727693914e-09
+382,TNRC6C,243.971435546875,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",-0.09688486896646509,7.168086659104688e-11,3.704467185425302e-10
+53,HNRNPA1,3371.2275390625,"RNA splicing, mRNA processing, mRNA splicing, via spliceosome, regulation of alternative mRNA splicing, via spliceosome",-0.09913949190338155,2.566752086682696e-11,1.3703486347082822e-10
+306,HNRNPA0,2055.30419921875,"3'-UTR-mediated mRNA stabilization, mRNA processing",-0.11873227979706287,1.2831903234728024e-15,9.52805688463713e-15
+578,C1QBP,1382.031982421875,"RNA splicing, mRNA processing, negative regulation of mRNA splicing, via spliceosome",-0.12059221224744845,4.571537597254896e-16,3.474368573913721e-15
+161,SF1,1713.0194091796875,"RNA splicing, mRNA 3'-splice site recognition, mRNA processing, mRNA splicing, via spliceosome, regulation of mRNA splicing, via spliceosome, spliceosomal complex assembly",-0.12366406233424077,8.025899680947606e-17,6.400902708508831e-16
+446,ATM,910.088134765625,histone mRNA catabolic process,-0.1488984374882581,9.341378909442371e-24,1.0971874137272312e-22
+151,APEX1,1007.30224609375,regulation of mRNA stability,-0.14921634499422848,7.49385525367273e-24,9.134019799759592e-23
+643,TOB1,1128.871826171875,"negative regulation of nuclear-transcribed mRNA poly(A) tail shortening, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",-0.1771358523700501,4.408909585275863e-33,9.82122617961451e-32
+179,EEF1D,8713.84375,mRNA transcription,-0.24422317051401587,3.4600911846882556e-62,1.862682421090511e-60
+463,EIF3E,2938.9501953125,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",-0.3252629714964901,1.5751153898471717e-111,1.2719056773015911e-109
+345,NPM1,6245.49462890625,"negative regulation of mRNA splicing, via spliceosome, regulation of mRNA stability involved in cellular response to UV",-0.36181421886752785,1.9514034235915394e-139,2.521213223280269e-137
+119,PABPC1,5736.208984375,"RNA splicing, mRNA polyadenylation, mRNA processing, mRNA splicing, via spliceosome, mRNA stabilization, negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of nuclear-transcribed mRNA poly(A) tail shortening",-0.5642491034194085,0.0,0.0
+294,RPS13,13153.2890625,negative regulation of RNA splicing,-0.7797376458280084,0.0,0.0
