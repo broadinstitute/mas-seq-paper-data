@@ -36,7 +36,7 @@ There were two datasets from this study:
 \* - The SIRV samples were prepared with two library preparation techniques: a length 10 MAS-ISO-seq array and a length 15 MAS-ISO-seq array.  They were multiplexed into a single pooled sample and sequenced in a single run on a PacBio Sequel IIe.  Our software package, [Longbow](https://github.com/broadinstitute/longbow/releases/tag/v0.2.2), was then used to demultiplex the single SIRV multiplexed sample into two outputs - one for the length 15 array and one for the length 10 array.  These demultiplexed files are what is currently available in the Terra workspace.
 
 ## Longbow
-Longbow is the profile HMM tool used to segment the MAS-seq array reads (version 0.2.2-Paper was used in this manuscript).  It is open-source and can be found (here: https://github.com/broadinstitute/longbow)[https://github.com/broadinstitute/longbow].
+Longbow is the profile HMM tool used to segment the MAS-seq array reads (version 0.2.2-Paper was used in this manuscript).  It is open-source and can be found here: [https://github.com/broadinstitute/longbow](https://github.com/broadinstitute/longbow).
 
 ## Terra Workspace Example
 A [Terra](https://terra.bio) workspace with an example of how to process MAS-ISO-seq data can be found here:
