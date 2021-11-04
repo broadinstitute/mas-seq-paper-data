@@ -53,3 +53,6 @@ A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isofo
 ## Additional Analysis Scripts
 Addition scripts and Jupyter notebooks used to perform analysis and figure creation for the paper are located in the scripts directory.
 
+## Other Long-Read Pipelines / Analyses
+Additional long-read analyses and pipelines can be found at The Broad Institute's [long read pipelines github repository](https://github.com/broadinstitute/long-read-pipelines).  These pipelines are not necessarily directly related to this work, but many share common components and sub-workflows / tasks.
+
