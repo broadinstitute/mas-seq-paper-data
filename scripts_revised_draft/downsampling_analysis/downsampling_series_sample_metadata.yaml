@@ -1,0 +1,8 @@
+# sample key: relative path of the raw long-reads AnnData object
+mep_1m: '1m/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_5m: '5m/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_10m: '10m/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_20m: '20m/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_30m: '30m/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_isoseq: 'isoseq/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
+mep_masseq: 'masseq/M132TS_MAS_15x_overall_gene_tx_expression_count_matrix_tx_gene_counts_adata.h5ad'
