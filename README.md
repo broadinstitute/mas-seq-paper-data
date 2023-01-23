@@ -58,7 +58,7 @@ A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isofo
 Addition scripts and Jupyter notebooks used to perform analysis and figure creation for the paper are located in the scripts directory.
 
 ## Workflow / Processing Files
-The workflow and inputs run to process the data can be found in the `workflows` folder.
+The workflow and inputs run to process the data can be found in the [workflows](workflows/README.md) folder.
 
 ## Other Long-Read Pipelines / Analyses
 Additional long-read analyses and pipelines can be found at the [LRMA group pipelines repository](https://github.com/broadinstitute/long-read-pipelines).  These pipelines are not necessarily directly related to this work, but many share common components and sub-workflows / tasks.
