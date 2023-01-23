@@ -28,15 +28,19 @@ _**Aziz M. Al’Khafaji**_<sup>1*†</sup>, _**Jonathan T. Smith**_<sup>1*</sup>
 
 There were two datasets from this study: 
 
-| Dataset | Number of Samples | Location |
-|---|---|---|
-| Human tumor-infiltrating CD8+ T cells | 2 | _Release in progress..._ |
+| Dataset                                                                                                                              | Number of Samples | Location |
+|--------------------------------------------------------------------------------------------------------------------------------------|---|---|
+| Human peripheral blood monouclear cells (PBMC) / tumor-infiltrating CD8+ T cells                                                     | 2 | _Release in progress..._ |
 | Spike-in RNA Variant Control Mix data ([SIRVs set 4](https://www.lexogen.com/sirvs/sirv-sets/), [Lexogen](https://www.lexogen.com/)) | 2 | [Terra](https://app.terra.bio/#workspaces/broad-firecloud-dsde-methods/MAS-seq%20-%20Data%20Segmentation%20and%20Alignment/data)*,<BR />FTP: ftp://gsapubftp-anonymous@ftp.broadinstitute.org/MasSeqNatBiotech2021 |
 
 \* - The SIRV samples were prepared with two library preparation techniques: a length 10 MAS-ISO-seq array and a length 15 MAS-ISO-seq array.  They were multiplexed into a single pooled sample and sequenced in a single run on a PacBio Sequel IIe.  Our software package, [Longbow](https://github.com/broadinstitute/longbow/releases/tag/v0.2.2), was then used to demultiplex the single SIRV multiplexed sample into two outputs - one for the length 15 array and one for the length 10 array.  These demultiplexed files are what is currently available in the Terra workspace.
 
 ## Longbow
-Longbow is the profile HMM tool used to segment the MAS-seq array reads (version [0.2.2-Paper](https://github.com/broadinstitute/longbow/releases/tag/v0.2.2) was used in this manuscript).  It is open-source and can be found here: [https://github.com/broadinstitute/longbow](https://github.com/broadinstitute/longbow).
+Longbow is the profile HMM tool used to segment the MAS-seq array reads.  It is open-source and maintained byt the Data Sciences Platform Long Read Methods and Applications (LRMA) group.  The source code can be found here: [https://github.com/broadinstitute/longbow](https://github.com/broadinstitute/longbow).
+
+For the preprint, we used version [0.2.2-Paper](https://github.com/broadinstitute/longbow/releases/tag/v0.2.2).  This **version is considered obsolete** and should not be used.
+
+For the final submission we used version [0.6.3](https://github.com/broadinstitute/longbow/releases/tag/v0.6.3) for all operations except UMI Correction.  For UMI correction we used version [0.6.6](https://github.com/broadinstitute/longbow/releases/tag/v0.6.6)
 
 ## Terra Workspace Example
 A [Terra](https://terra.bio) workspace with an example of how to process MAS-ISO-seq data can be found here:
@@ -48,7 +52,7 @@ This workspace is an example of how to segment and align MAS-ISO-seq data.
 The data in this workspace are the same Spike-in RNA Variant Control Mix ([SIRVs set 4](https://www.lexogen.com/sirvs/sirv-sets/), [Lexogen](https://www.lexogen.com/)) samples that we used as controls in the paper.
 
 ## Pre-print of the Paper
-A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isoform sequencing using programmable cDNA concatenation](https://www.biorxiv.org/content/10.1101/2021.10.01.462818v1)
+A preprint of the paper can be found on bioRxiv here: [High-throughput RNA isoform sequencing using programmable cDNA concatenation](https://www.biorxiv.org/content/10.1101/2021.10.01.462818v1).
 
 ## Additional Analysis Scripts
 Addition scripts and Jupyter notebooks used to perform analysis and figure creation for the paper are located in the scripts directory.
@@ -57,5 +61,5 @@ Addition scripts and Jupyter notebooks used to perform analysis and figure creat
 The workflow and inputs run to process the data can be found in the `workflows` folder.
 
 ## Other Long-Read Pipelines / Analyses
-Additional long-read analyses and pipelines can be found at The Broad Institute's [long read pipelines github repository](https://github.com/broadinstitute/long-read-pipelines).  These pipelines are not necessarily directly related to this work, but many share common components and sub-workflows / tasks.
+Additional long-read analyses and pipelines can be found at the [LRMA group pipelines repository](https://github.com/broadinstitute/long-read-pipelines).  These pipelines are not necessarily directly related to this work, but many share common components and sub-workflows / tasks.
 
