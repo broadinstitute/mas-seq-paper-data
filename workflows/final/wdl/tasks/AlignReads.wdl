@@ -53,6 +53,8 @@ task Minimap2 {
 
         String map_preset
 
+        Array[String] tags_to_preserve = []
+
         String RG = ""
 
         String prefix = "out"
@@ -67,19 +69,22 @@ task Minimap2 {
         prefix:     "[default-valued] prefix for output BAM"
     }
 
+    Boolean do_preserve_tags = if length(tags_to_preserve) != 0 then true else false
+
     # 10x for the decompressed file size
     # 2x for potential for FASTQ and SAM files (from file conversion).
     # 2x for extra "just in case" space.
     # +1 to handle small files
     Int disk_size = 1 + 10*2*2*ceil(size(reads, "GB") + size(ref_fasta, "GB"))
 
-    Int cpus = 4
-    Int mem = 30
-
     # This is a hack to fix the WDL parsing of ${} variables:
     String DOLLAR = "$"
     command <<<
         set -euxo pipefail
+
+        NUM_CPUS=$( cat /proc/cpuinfo | grep '^processor' | tail -n1 | awk '{print $NF+1}' )
+        RAM_IN_GB=$( free -g | grep "^Mem" | awk '{print $2}' )
+        MEM_FOR_SORT=$( echo "" | awk "{print int(($RAM_IN_GB - 1)/$NUM_CPUS)}" )
 
         rg_len=$(echo -n '~{RG}' | wc -c | awk '{print $NF}')
         if [[ $rg_len -ne 0 ]] ; then
@@ -89,9 +94,9 @@ task Minimap2 {
             echo "Original Read Group: ~{RG}"
             echo "Sanitized Read Group: $sanitized_read_group"
 
-            MAP_PARAMS="-ayYL --MD --eqx -x ~{map_preset} -R $sanitized_read_group -t ~{cpus} ~{ref_fasta}"
+            MAP_PARAMS="-ayYL --MD --eqx -x ~{map_preset} -R $sanitized_read_group -t ${NUM_CPUS} ~{ref_fasta}"
         else
-            MAP_PARAMS="-ayYL --MD --eqx -x ~{map_preset} -t ~{cpus} ~{ref_fasta}"
+            MAP_PARAMS="-ayYL --MD --eqx -x ~{map_preset} -t ${NUM_CPUS} ~{ref_fasta}"
         fi
         FILE="~{reads[0]}"
         FILES="~{sep=' ' reads}"
@@ -112,20 +117,28 @@ task Minimap2 {
 
             # samtools fastq takes only 1 file at a time so we need to merge them together:
             for f in "~{sep=' ' reads}" ; do
-                samtools fastq "$f"
+                if ~{do_preserve_tags} ; then
+                    samtools fastq -T  ~{sep=',' tags_to_preserve} "$f"
+                else
+                    samtools fastq "$f"
+                fi
             done > tmp.fastq
 
             echo "Memory info:"
             cat /proc/meminfo
             echo ""
 
-            minimap2 $MAP_PARAMS tmp.fastq > tmp.sam
+            if ~{do_preserve_tags} ; then
+                minimap2 $MAP_PARAMS -y tmp.fastq > tmp.sam
+            else
+                minimap2 $MAP_PARAMS tmp.fastq > tmp.sam
+            fi
         else
             echo "Did not understand file format for '$FILE'"
             exit 1
         fi
 
-        samtools sort -@~{cpus} -m~{mem}G --no-PG -o ~{prefix}.bam tmp.sam
+        samtools sort -@${NUM_CPUS} -m${MEM_FOR_SORT}G --no-PG -o ~{prefix}.bam tmp.sam
         samtools index ~{prefix}.bam
     >>>
 
@@ -136,12 +149,12 @@ task Minimap2 {
 
     #########################
     RuntimeAttr default_attr = object {
-        cpu_cores:          cpus,
-        mem_gb:             mem,
+        cpu_cores:          4,
+        mem_gb:             16,
         disk_gb:            disk_size,
         boot_disk_gb:       10,
-        preemptible_tries:  3,
-        max_retries:        2,
+        preemptible_tries:  0,
+        max_retries:        0,
         docker:             "us.gcr.io/broad-dsp-lrma/lr-align:0.1.28"
     }
     RuntimeAttr runtime_attr = select_first([runtime_attr_override, default_attr])

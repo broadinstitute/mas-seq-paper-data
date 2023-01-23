@@ -1,0 +1,13 @@
+{
+  "PB10xMasSeqSingleFlowcellv5.gcs_input_dir":           "gs://broad-gp-pacbio/r64020e_20210504_173128/3_C01/",
+  "PB10xMasSeqSingleFlowcellv5.cell_barcode_whitelist":  "gs://fc-96c9438d-e3aa-4474-afd4-7a63653b5d51/resources/m132ts_short_read_barcodes_no_counts.txt",
+  "PB10xMasSeqSingleFlowcellv5.short_read_umis_tsv":     "gs://fc-96c9438d-e3aa-4474-afd4-7a63653b5d51/resources/m132ts_short_read_umis.tsv",
+  "PB10xMasSeqSingleFlowcellv5.ccs_lev_dist":            2,
+  "PB10xMasSeqSingleFlowcellv5.clr_lev_dist":            3,
+  "PB10xMasSeqSingleFlowcellv5.ccs_cbc_padding":         3,
+  "PB10xMasSeqSingleFlowcellv5.clr_cbc_padding":         3,
+  "PB10xMasSeqSingleFlowcellv5.clr_umi_padding":         2,
+  "PB10xMasSeqSingleFlowcellv5.ccs_umi_padding":         2,
+  "PB10xMasSeqSingleFlowcellv5.mas_seq_model":           "mas_15+sc_10x5p",
+  "PB10xMasSeqSingleFlowcellv5.gcs_out_root_dir":        "gs://fc-96c9438d-e3aa-4474-afd4-7a63653b5d51/results/"
+}

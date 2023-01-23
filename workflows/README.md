@@ -9,18 +9,17 @@ which are executed in approximate numbered order when submitted to the cloud via
 (the order is not exactly numerical because cromwell performs call tree analysis to 
 parallelize tasks that can be run concurrently). 
 
-## Alpha Warning
-The workflows defined here should be considered an alpha release.
-They produce valid data, however they are not optimized and are
-therefore more expensive than they need to be.
+## User Caveat
+The workflows defined here should be considered an alpha/beta release.
+They produce valid data, however they are not optimized for general use and should not be run without inspection and optimization. 
 
 ## Docker Images
 All docker images used in these WDL files are stored in the 
 [Google Container Registry](https://cloud.google.com/container-registry) for the DSP Methods Long Reads Methods and 
-Applications group at The Broad Institute of MIT and Harvard.
+Applications (LRMA) group at The Broad Institute of MIT and Harvard.  The full paths are specified inline in each WDL task.
 
-## Preprint
-The workflows in the `preprint` folder correspond to processing performed on the data in the preprint sumission of the paper.
+## Final Submission Workflows
+The workflows in the `final` folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the revised submission of the paper.
 
-## Revisions
-The workflows in the `revisions` folder correspond to processing performed on the data in the revised sumission of the paper.
+## Preprint Workflows
+The workflows in the `preprint` folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the preprint submission of the paper.
