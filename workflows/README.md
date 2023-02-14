@@ -18,8 +18,14 @@ All docker images used in these WDL files are stored in the
 [Google Container Registry](https://cloud.google.com/container-registry) for the DSP Methods Long Reads Methods and 
 Applications (LRMA) group at The Broad Institute of MIT and Harvard.  The full paths are specified inline in each WDL task.
 
-## Final Submission Workflows
-The workflows in the `final` folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the revised submission of the paper.
+## Workflow Versions
+The workflows in this paper were modified in the time between the preprint release and the final release.  They have both been preserved here. 
 
-## Preprint Workflows
-The workflows in the `preprint` folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the preprint submission of the paper.
+### Final Submission Workflows
+The workflows in the [final](final) folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the revised submission of the paper.
+
+NOTE: The SIRV analysis did not change from the preprint, so these WDLs are not reproduced in this folder.
+NOTE: The downsampled WDL files are a subset of the Main MAS-ISO-seq analysis, so the inputs for those WDLs are not included here.
+
+### Preprint Workflows
+The workflows in the [preprint](preprint) folder correspond to processing performed on the human peripheral blood mononuclear cell (PBMC) sample data in the preprint submission of the paper.

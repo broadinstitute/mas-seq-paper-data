@@ -1,0 +1,12 @@
+{
+  "PB10xMasSeqSingleFlowcellv2.gcs_input_dir":    "gs://broad-dsde-methods-long-reads-outgoing/PB10xMasSeqArrayPreProcessing/SIRV_MAS_15-10x.m64020e_210409_221306/20210721_052628_117233142/SIRV_MAS_15-10x_mas15",
+  "PB10xMasSeqSingleFlowcellv2.ref_fasta":        "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Library.fasta",
+  "PB10xMasSeqSingleFlowcellv2.ref_fasta_index":  "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Library.fasta.fai",
+  "PB10xMasSeqSingleFlowcellv2.ref_fasta_dict":   "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Library.dict",
+  "PB10xMasSeqSingleFlowcellv2.transcriptome_ref_fasta":        "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Set_4.no_poly_a.no_in_silico.fasta",
+  "PB10xMasSeqSingleFlowcellv2.transcriptome_ref_fasta_index":  "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Set_4.no_poly_a.no_in_silico.fasta.fai",
+  "PB10xMasSeqSingleFlowcellv2.transcriptome_ref_fasta_dict":   "gs://broad-dsde-methods-long-reads/resources/MASseq_0.0.2/SIRV_Set_4.no_poly_a.no_in_silico.dict",
+  "PB10xMasSeqSingleFlowcellv2.sample_name": "CDH222_SIRV_MAS_15",
+  "PB10xMasSeqSingleFlowcellv2.is_SIRV_data": true,
+  "PB10xMasSeqSingleFlowcellv2.mas_seq_model": "mas15"
+}
