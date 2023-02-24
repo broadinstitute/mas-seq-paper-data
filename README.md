@@ -57,7 +57,7 @@ NOTE: The downsampled WDL files are a subset of the Main MAS-ISO-seq analysis, s
 #### Docker Images
 Custom docker images used in this paper are all defined in the LRMA long-read-pipelines repository in the [docker](https://github.com/broadinstitute/long-read-pipelines/tree/jts_covid_19_workflow/docker) folder.
 
-Currently all of these files live in a [branch of of the LRMA long-read-pipelines repository](https://github.com/broadinstitute/long-read-pipelines/tree/jts_covid_19_workflow/).
+Currently all of these files live in a [branch of of the LRMA long-read-pipelines repository](https://github.com/broadinstitute/long-read-pipelines/tree/jts_covid_19_workflow/docker).
 
 ### Longbow
 Longbow is the profile HMM tool used to segment the MAS-seq array reads.  It is open-source and maintained byt the Data Sciences Platform Long Read Methods and Applications (LRMA) group.  The source code can be found here: [https://github.com/broadinstitute/longbow](https://github.com/broadinstitute/longbow).
