@@ -1,0 +1,11 @@
+#/bin/bash
+
+jupyter nbconvert --to script mb_03_finalize_long_short_adata_from_seurat.ipynb
+python mb_03_finalize_long_short_adata_from_seurat.py mep_1m
+python mb_03_finalize_long_short_adata_from_seurat.py mep_5m
+python mb_03_finalize_long_short_adata_from_seurat.py mep_10m
+python mb_03_finalize_long_short_adata_from_seurat.py mep_20m
+python mb_03_finalize_long_short_adata_from_seurat.py mep_30m
+python mb_03_finalize_long_short_adata_from_seurat.py mep_isoseq
+python mb_03_finalize_long_short_adata_from_seurat.py mep_masseq
+
